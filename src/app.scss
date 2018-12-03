@@ -16,6 +16,15 @@
     min-height: 100vh;
   }
 
+  .card {
+    border: 1px solid #000;
+    display: inline-block;
+  }
+
+  .icon-rating {
+    height: 16px;
+  }
+
   .title {
     color: #35495e;
     display: block;

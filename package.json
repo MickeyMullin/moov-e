@@ -2,8 +2,10 @@
   "name": "moov-e",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://pyrolupus.com/moov-e",
   "dependencies": {
     "@material-ui/core": "^3.5.1",
+    "imdb-api": "^4.0.2",
     "moment": "^2.22.2",
     "node-sass": "^4.10.0",
     "react": "^16.6.0",

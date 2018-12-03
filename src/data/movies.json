@@ -2,119 +2,687 @@
   {
     "dir": "#",
     "filename": "12 Angry Men (1957).m4v",
-    "title": "12 Angry Men (1957)",
+    "title": "12 Angry Men",
     "extension": "m4v",
     "size": 945209456,
     "modified": "2010-12-27T10:52:00.000Z",
-    "accessed": "2018-10-23T00:53:54.929Z"
+    "accessed": "2018-10-23T00:53:54.929Z",
+    "filenameNoExt": "12 Angry Men (1957)",
+    "_year_data": "1957",
+    "year": 1957,
+    "rated": "APPROVED",
+    "released": "1957-04-01T04:00:00.000Z",
+    "runtime": "96 min",
+    "genres": "Crime, Drama",
+    "director": "Sidney Lumet",
+    "writer": "Reginald Rose (story), Reginald Rose (screenplay)",
+    "actors": "Martin Balsam, John Fiedler, Lee J. Cobb, E.G. Marshall",
+    "plot": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young man is guilty or innocent of murdering his father. What begins as an open-and-shut case of murder soon becomes a detective story that presents a succession of clues creating doubt, and a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other. Based on the play, all of the action takes place on the stage of the jury room.",
+    "languages": "English",
+    "country": "USA",
+    "awards": "Nominated for 3 Oscars. Another 16 wins & 8 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "100%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "96/100"
+      }
+    ],
+    "metascore": "96",
+    "rating": 8.9,
+    "votes": "565,482",
+    "imdbid": "tt0050083",
+    "type": "movie",
+    "dvd": "06 Mar 2001",
+    "boxoffice": "N/A",
+    "production": "Criterion Collection",
+    "website": "http://www.criterion.com/films/27871-12-angry-men",
+    "response": "True",
+    "name": "12 Angry Men",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0050083",
+    "lastImdbUpdate": "2018-12-03T08:46:14.567Z",
+    "lastUpdate": "2018-12-03T08:46:14.567Z"
   },
   {
     "dir": "#",
     "filename": "127 Hours (2010).m4v",
-    "title": "127 Hours (2010)",
+    "title": "127 Hours",
     "extension": "m4v",
     "size": 1186235218,
     "modified": "2011-03-13T12:42:22.000Z",
-    "accessed": "2018-10-23T00:53:55.400Z"
+    "accessed": "2018-10-23T00:53:55.400Z",
+    "filenameNoExt": "127 Hours (2010)",
+    "_year_data": "2010",
+    "year": 2010,
+    "rated": "R",
+    "released": "2011-01-28T05:00:00.000Z",
+    "runtime": "94 min",
+    "genres": "Adventure, Biography, Drama, Thriller",
+    "director": "Danny Boyle",
+    "writer": "Danny Boyle (screenplay), Simon Beaufoy (screenplay), Aron Ralston (book)",
+    "actors": "James Franco, Kate Mara, Amber Tamblyn, Sean Bott",
+    "plot": "127 Hours is the true story of mountain climber Aron Ralston's remarkable adventure to save himself after a fallen boulder crashes on his arm and traps him in an isolated canyon in Utah. Over the next five days Ralston examines his life and survives the elements to finally discover he has the courage and the wherewithal to extricate himself by any means necessary, scale a 65 foot wall and hike over eight miles before he can be rescued. Throughout his journey, Ralston recalls friends, lovers, family, and the two hikers he met before his accident. Will they be the last two people he ever had the chance to meet?",
+    "languages": "English, Italian",
+    "country": "USA, UK, France",
+    "awards": "Nominated for 6 Oscars. Another 23 wins & 141 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc2NjMzOTE3Ml5BMl5BanBnXkFtZTcwMDE0OTc5Mw@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "93%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "82/100"
+      }
+    ],
+    "metascore": "82",
+    "rating": 7.6,
+    "votes": "315,222",
+    "imdbid": "tt1542344",
+    "type": "movie",
+    "dvd": "01 Mar 2011",
+    "boxoffice": "$18,329,466",
+    "production": "Fox Searchlight",
+    "website": "http://www.127hoursmovie.com/",
+    "response": "True",
+    "name": "127 Hours",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt1542344",
+    "lastImdbUpdate": "2018-12-03T08:46:15.507Z",
+    "lastUpdate": "2018-12-03T08:46:15.507Z"
   },
   {
     "dir": "#",
     "filename": "13 (2010).m4v",
-    "title": "13 (2010)",
+    "title": "13",
     "extension": "m4v",
     "size": 944826233,
     "modified": "2011-04-18T23:55:26.000Z",
-    "accessed": "2018-10-23T00:53:55.425Z"
+    "accessed": "2018-10-23T00:53:55.425Z",
+    "filenameNoExt": "13 (2010)",
+    "_year_data": "2010",
+    "year": 2010,
+    "rated": "R",
+    "released": "2010-03-01T05:00:00.000Z",
+    "runtime": "91 min",
+    "genres": "Drama, Thriller",
+    "director": "Géla Babluani",
+    "writer": "Géla Babluani (screenplay), Greg Pruss (screenplay), Géla Babluani (screenplay \"13 Tzameti\")",
+    "actors": "Sam Riley, Alice Barrett, Gaby Hoffmann, Jason Statham",
+    "plot": "In Talbot, Ohio, a father's need for surgeries puts the family in a financial bind. His son Vince, an electrician, overhears a man talking about making a fortune in just a day. When the man overdoses on drugs, Vince finds instructions and a cell phone that the man has received and substitutes himself: taking a train to New York and awaiting contact. He has no idea what it's about. He ends up at a remote house where wealthy men bet on who will survive a complicated game of Russian roulette: he's number 13. In flashbacks we meet other contestants, including a man whose brother takes him out of a mental institution in order to compete. Can Vince be the last one standing?",
+    "languages": "English",
+    "country": "USA",
+    "awards": "1 win & 1 nomination.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWE4YWZjYWItY2U0NS00N2ZlLWFkOGEtY2M2N2E0NDA5MjBlXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "8%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "29/100"
+      }
+    ],
+    "metascore": "29",
+    "rating": 6.1,
+    "votes": "37,743",
+    "imdbid": "tt0798817",
+    "type": "movie",
+    "dvd": "08 Nov 2011",
+    "boxoffice": "N/A",
+    "production": "Anchor Bay",
+    "website": "http://www.13-film.com/",
+    "response": "True",
+    "name": "13",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0798817",
+    "lastImdbUpdate": "2018-12-03T08:46:15.857Z",
+    "lastUpdate": "2018-12-03T08:46:15.857Z"
   },
   {
     "dir": "#",
     "filename": "2001 A Space Odyssey (1968).mp4",
-    "title": "2001 A Space Odyssey (1968)",
+    "title": "2001: A Space Odyssey",
     "extension": "mp4",
     "size": 946351754,
     "modified": "2012-11-15T12:43:36.000Z",
-    "accessed": "2018-10-23T00:53:55.310Z"
+    "accessed": "2018-10-23T00:53:55.310Z",
+    "filenameNoExt": "2001 A Space Odyssey (1968)",
+    "_year_data": "1968",
+    "year": 1968,
+    "rated": "G",
+    "released": "1968-05-12T04:00:00.000Z",
+    "runtime": "149 min",
+    "genres": "Adventure, Sci-Fi",
+    "director": "Stanley Kubrick",
+    "writer": "Stanley Kubrick (screenplay), Arthur C. Clarke (screenplay)",
+    "actors": "Keir Dullea, Gary Lockwood, William Sylvester, Daniel Richter",
+    "plot": "\"2001\" is a story of evolution. Sometime in the distant past, someone or something nudged evolution by placing a monolith on Earth (presumably elsewhere throughout the universe as well). Evolution then enabled humankind to reach the moon's surface, where yet another monolith is found, one that signals the monolith placers that humankind has evolved that far. Now a race begins between computers (HAL) and human (Bowman) to reach the monolith placers. The winner will achieve the next step in evolution, whatever that may be.",
+    "languages": "English, Russian",
+    "country": "UK, USA",
+    "awards": "Won 1 Oscar. Another 13 wins & 10 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "93%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "82/100"
+      }
+    ],
+    "metascore": "82",
+    "rating": 8.3,
+    "votes": "521,302",
+    "imdbid": "tt0062622",
+    "type": "movie",
+    "dvd": "25 Aug 1998",
+    "boxoffice": "$135,620",
+    "production": "Warner Bros. Pictures",
+    "website": "N/A",
+    "response": "True",
+    "name": "2001: A Space Odyssey",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0062622",
+    "lastImdbUpdate": "2018-12-03T08:46:16.801Z",
+    "lastUpdate": "2018-12-03T08:46:16.801Z"
   },
   {
     "dir": "#",
     "filename": "2012 (2009).mp4",
-    "title": "2012 (2009)",
+    "title": "2012",
     "extension": "mp4",
     "size": 3690073900,
     "modified": "2012-11-15T12:44:52.000Z",
-    "accessed": "2018-10-23T00:53:55.728Z"
+    "accessed": "2018-10-23T00:53:55.728Z",
+    "filenameNoExt": "2012 (2009)",
+    "_year_data": "2009",
+    "year": 2009,
+    "rated": "PG-13",
+    "released": "2009-11-13T05:00:00.000Z",
+    "runtime": "158 min",
+    "genres": "Action, Adventure, Sci-Fi",
+    "director": "Roland Emmerich",
+    "writer": "Roland Emmerich, Harald Kloser",
+    "actors": "John Cusack, Amanda Peet, Chiwetel Ejiofor, Thandie Newton",
+    "plot": "Dr. Adrian Helmsley, part of a worldwide geophysical team investigating the effect on the earth of radiation from unprecedented solar storms, learns that the earth's core is heating up. He warns U.S. President Thomas Wilson that the crust of the earth is becoming unstable and that without proper preparations for saving a fraction of the world's population, the entire race is doomed. Meanwhile, writer Jackson Curtis stumbles on the same information. While the world's leaders race to build \"arks\" to escape the impending cataclysm, Curtis struggles to find a way to save his family. Meanwhile, volcanic eruptions and earthquakes of unprecedented strength wreak havoc around the world.",
+    "languages": "English, French, Tibetan, Mandarin, Russian, Hindi, Portuguese, Latin, Italian, Spanish",
+    "country": "USA",
+    "awards": "5 wins & 21 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY0MjEyODQzMF5BMl5BanBnXkFtZTcwMTczMjQ4Mg@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "40%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "49/100"
+      }
+    ],
+    "metascore": "49",
+    "rating": 5.8,
+    "votes": "319,045",
+    "imdbid": "tt1190080",
+    "type": "movie",
+    "dvd": "02 Mar 2010",
+    "boxoffice": "$166,112,167",
+    "production": "Sony Pictures/Columbia",
+    "website": "http://www.whowillsurvive2012.com/",
+    "response": "True",
+    "name": "2012",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt1190080",
+    "lastImdbUpdate": "2018-12-03T08:46:17.150Z",
+    "lastUpdate": "2018-12-03T08:46:17.150Z"
   },
   {
     "dir": "#",
     "filename": "21 Grams (2003).m4v",
-    "title": "21 Grams (2003)",
+    "title": "21 Grams",
     "extension": "m4v",
     "size": 1075266107,
     "modified": "2011-03-19T22:43:16.000Z",
-    "accessed": "2018-10-23T00:53:55.784Z"
+    "accessed": "2018-10-23T00:53:55.784Z",
+    "filenameNoExt": "21 Grams (2003)",
+    "_year_data": "2003",
+    "year": 2003,
+    "rated": "R",
+    "released": "2004-01-16T05:00:00.000Z",
+    "runtime": "124 min",
+    "genres": "Crime, Drama, Thriller",
+    "director": "Alejandro G. Iñárritu",
+    "writer": "Guillermo Arriaga",
+    "actors": "Sean Penn, Naomi Watts, Danny Huston, Carly Nahon",
+    "plot": "This is the story of three well-meaning but flawed people: Paul Rivers, an ailing mathematician lovelessly married to an English émigré; Christina Peck, an upper-middle-class suburban housewife, happily married homemaker with two young daughters, with hiding a secret past; and Jack Jordan, an ex-convict who has found in his Christian faith the strength to live a law-abiding life and raise a family. They will be brought together by a terrible accident that will change their lives. By the final frame, none of them will be the same as they will have learnt harsh truths about love, faith, courage, desire and guilt, and how chance can change our worlds irretrievably, forever.",
+    "languages": "English",
+    "country": "USA",
+    "awards": "Nominated for 2 Oscars. Another 30 wins & 76 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4MjI2OTM5N15BMl5BanBnXkFtZTcwNDA1NjUzMw@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "80%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "70/100"
+      }
+    ],
+    "metascore": "70",
+    "rating": 7.7,
+    "votes": "208,659",
+    "imdbid": "tt0315733",
+    "type": "movie",
+    "dvd": "16 Mar 2004",
+    "boxoffice": "$16,162,920",
+    "production": "Universal Pictures",
+    "website": "http://www.21-grams.com/",
+    "response": "True",
+    "name": "21 Grams",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0315733",
+    "lastImdbUpdate": "2018-12-03T08:46:17.501Z",
+    "lastUpdate": "2018-12-03T08:46:17.501Z"
   },
   {
     "dir": "#",
     "filename": "21 Jump Street (2012).m4v",
-    "title": "21 Jump Street (2012)",
+    "title": "21 Jump Street",
     "extension": "m4v",
     "size": 1777773528,
     "modified": "2012-11-19T01:25:32.000Z",
-    "accessed": "2018-10-23T00:53:55.889Z"
+    "accessed": "2018-10-23T00:53:55.889Z",
+    "filenameNoExt": "21 Jump Street (2012)",
+    "_year_data": "2012",
+    "year": 2012,
+    "rated": "R",
+    "released": "2012-03-16T04:00:00.000Z",
+    "runtime": "109 min",
+    "genres": "Action, Comedy, Crime",
+    "director": "Phil Lord, Christopher Miller",
+    "writer": "Michael Bacall (screenplay), Michael Bacall (story), Jonah Hill (story), Patrick Hasburgh (television series), Stephen J. Cannell (television series)",
+    "actors": "Jonah Hill, Channing Tatum, Brie Larson, Dave Franco",
+    "plot": "In high school, Schmidt (Jonah Hill) was a dork and Jenko (Channing Tatum) was the popular jock. After graduation, both of them joined the police force and ended up as partners riding bicycles in the city park. Since they are young and look like high school students, they are assigned to an undercover unit to infiltrate a drug ring that is supplying high school students synthetic drugs.",
+    "languages": "English",
+    "country": "USA",
+    "awards": "11 wins & 20 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc3NzQ3OTg3NF5BMl5BanBnXkFtZTcwMjk5OTcxNw@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "85%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "69/100"
+      }
+    ],
+    "metascore": "69",
+    "rating": 7.2,
+    "votes": "465,496",
+    "imdbid": "tt1232829",
+    "type": "movie",
+    "dvd": "26 Jun 2012",
+    "boxoffice": "$134,000,000",
+    "production": "Sony Pictures",
+    "website": "http://www.21jumpstreet-movie.com/site/",
+    "response": "True",
+    "name": "21 Jump Street",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt1232829",
+    "lastImdbUpdate": "2018-12-03T08:46:17.858Z",
+    "lastUpdate": "2018-12-03T08:46:17.858Z"
   },
   {
     "dir": "#",
     "filename": "30 Days of Night Dark Days (2010).mp4",
-    "title": "30 Days of Night Dark Days (2010)",
+    "title": "30 Days of Night: Dark Days",
     "extension": "mp4",
     "size": 1728436901,
     "modified": "2012-11-18T22:04:46.000Z",
-    "accessed": "2018-10-23T00:53:55.588Z"
+    "accessed": "2018-10-23T00:53:55.588Z",
+    "filenameNoExt": "30 Days of Night Dark Days (2010)",
+    "_year_data": "2010",
+    "year": 2010,
+    "rated": "R",
+    "released": "2010-10-05T04:00:00.000Z",
+    "runtime": "92 min",
+    "genres": "Horror, Thriller",
+    "director": "Ben Ketai",
+    "writer": "Steve Niles (screenplay), Ben Ketai (screenplay), Steve Niles (comic), Ben Templesmith (comic)",
+    "actors": "Kiele Sanchez, Rhys Coiro, Diora Baird, Harold Perrineau",
+    "plot": "It has been a year since the isolated Alaskan town of Barrow's population was decimated by vampires during its annual month long sunset. Riddled with grief over the death of her husband Eben, bound by nightmares and void of all emotions beyond hate and sorrow, Stella Oleson has spent the past months traveling the world, trying to convince others that vampires exist. Met with skepticism and laughter, she is ready to throw in the towel when a group of lost souls offers an incredible opportunity: the chance to exact revenge upon Lilith, the vampire queen responsible for the assault on her sleepy Alaskan town. With nothing remaining to live for, and nothing left to fear, Stella joins their mission and ventures into the uncharted underbelly of Los Angeles where she pushes herself to the most extreme limits to stop the evil from striking again.",
+    "languages": "English",
+    "country": "USA",
+    "awards": "2 wins.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3ODMxODIwNl5BMl5BanBnXkFtZTgwMDYyODAwNzE@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "17%"
+      }
+    ],
+    "metascore": "N/A",
+    "rating": 4.4,
+    "votes": "11,264",
+    "imdbid": "tt1320304",
+    "type": "movie",
+    "dvd": "05 Oct 2010",
+    "boxoffice": "N/A",
+    "production": "SPE Acquisitions",
+    "website": "N/A",
+    "response": "True",
+    "name": "30 Days of Night: Dark Days",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt1320304",
+    "lastImdbUpdate": "2018-12-03T08:46:18.835Z",
+    "lastUpdate": "2018-12-03T08:46:18.835Z"
   },
   {
     "dir": "#",
     "filename": "30 Minutes or Less (2011).m4v",
-    "title": "30 Minutes or Less (2011)",
+    "title": "30 Minutes or Less",
     "extension": "m4v",
     "size": 1297089542,
     "modified": "2011-11-22T11:11:36.000Z",
-    "accessed": "2018-10-23T00:53:55.006Z"
+    "accessed": "2018-10-23T00:53:55.006Z",
+    "filenameNoExt": "30 Minutes or Less (2011)",
+    "_year_data": "2011",
+    "year": 2011,
+    "rated": "R",
+    "released": "2011-08-12T04:00:00.000Z",
+    "runtime": "83 min",
+    "genres": "Action, Comedy, Crime",
+    "director": "Ruben Fleischer",
+    "writer": "Michael Diliberti (screenplay), Michael Diliberti (story), Matthew Sullivan (story)",
+    "actors": "Jesse Eisenberg, Danny McBride, Aziz Ansari, Nick Swardson",
+    "plot": "The not so smart Dwayne intends to open a massage parlor with his partner Travis, but he does not have money for the investment. He decides to hire a hit-man to kill his father, The Major, who won a large amount of money in the lottery years ago, but the killer demands US$ 100,000 for the job. Dwayne and Travis kidnap the pizza delivery boy Nick and they dress Nick in a vest with a timer and several bombs. Then Dwayne tells Nick that he has ten hours to rob US$ 100,000 from a bank. Once he does, he would give Nick the code to release the vest. Nick summons his best friend Chet to help him in the heist but the scheme does not work the way Dwayne has plotted.",
+    "languages": "English, German, Spanish",
+    "country": "USA",
+    "awards": "N/A",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM5NjM0ODY1NF5BMl5BanBnXkFtZTcwMjk5NjI0Ng@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "44%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "49/100"
+      }
+    ],
+    "metascore": "49",
+    "rating": 6.1,
+    "votes": "85,657",
+    "imdbid": "tt1622547",
+    "type": "movie",
+    "dvd": "29 Nov 2011",
+    "boxoffice": "$37,100,000",
+    "production": "Sony Pictures",
+    "website": "http://www.30minutesorless.com/",
+    "response": "True",
+    "name": "30 Minutes or Less",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt1622547",
+    "lastImdbUpdate": "2018-12-03T08:46:19.190Z",
+    "lastUpdate": "2018-12-03T08:46:19.190Z"
   },
   {
     "dir": "#",
     "filename": "300 (2006).mp4",
-    "title": "300 (2006)",
+    "title": "300",
     "extension": "mp4",
     "size": 1609898694,
     "modified": "2012-11-12T05:00:56.000Z",
-    "accessed": "2018-10-23T00:53:54.103Z"
+    "accessed": "2018-10-23T00:53:54.103Z",
+    "filenameNoExt": "300 (2006)",
+    "_year_data": "2006",
+    "year": 2006,
+    "rated": "R",
+    "released": "2007-03-09T05:00:00.000Z",
+    "runtime": "117 min",
+    "genres": "Action, Fantasy",
+    "director": "Zack Snyder",
+    "writer": "Zack Snyder (screenplay), Kurt Johnstad (screenplay), Michael B. Gordon (screenplay), Frank Miller (graphic novel), Lynn Varley (graphic novel)",
+    "actors": "Gerard Butler, Lena Headey, Dominic West, David Wenham",
+    "plot": "In the Battle of Thermopylae of 480 BC an alliance of Greek city-states fought the invading Persian army in the mountain pass of Thermopylae. Vastly outnumbered, the Greeks held back the enemy in one of the most famous last stands of history. Persian King Xerxes led a Army of well over 100,000 (Persian king Xerxes before war has about 170,000 army) men to Greece and was confronted by 300 Spartans, 700 Thespians, and 400 Thebans. Xerxes waited for 10 days for King Leonidas to surrender or withdraw but left with no options he pushed forward. After 3 days of battle all the Greeks were killed. The Spartan defeat was not the one expected, as a local shepherd, named Ephialtes, defected to the Persians and informed Xerxes that the separate path through Thermopylae, which the Persians could use to outflank the Greeks, was not as heavily guarded as they thought.",
+    "languages": "English",
+    "country": "USA",
+    "awards": "17 wins & 45 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAzNTkzNjcxNl5BMl5BanBnXkFtZTYwNDA4NjE3._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "60%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "52/100"
+      }
+    ],
+    "metascore": "52",
+    "rating": 7.7,
+    "votes": "675,800",
+    "imdbid": "tt0416449",
+    "type": "movie",
+    "dvd": "31 Jul 2007",
+    "boxoffice": "$210,500,000",
+    "production": "Warner Bros. Pictures",
+    "website": "http://300themovie.warnerbros.com/",
+    "response": "True",
+    "name": "300",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0416449",
+    "lastImdbUpdate": "2018-12-03T08:46:19.545Z",
+    "lastUpdate": "2018-12-03T08:46:19.545Z"
   },
   {
     "dir": "#",
     "filename": "The 40 Year Old Virgin (2005).m4v",
-    "title": "The 40 Year Old Virgin (2005)",
+    "title": "The 40-Year-Old Virgin",
     "extension": "m4v",
     "size": 1075842867,
     "modified": "2011-02-12T20:36:36.000Z",
-    "accessed": "2018-10-23T00:53:50.555Z"
+    "accessed": "2018-10-23T00:53:50.555Z",
+    "filenameNoExt": "The 40 Year Old Virgin (2005)",
+    "_year_data": "2005",
+    "year": 2005,
+    "rated": "R",
+    "released": "2005-08-19T04:00:00.000Z",
+    "runtime": "116 min",
+    "genres": "Comedy, Romance",
+    "director": "Judd Apatow",
+    "writer": "Judd Apatow, Steve Carell",
+    "actors": "Steve Carell, Catherine Keener, Paul Rudd, Romany Malco",
+    "plot": "Andy at the age of 40 still hasn't had sex. He lets his secret slip at a poker game with his buds from work. After the revealing all his friends are on a mission to help get him laid. Along the way Andy meets a nice mom, Trish, and they fall head over heels for each other.",
+    "languages": "English, Spanish, Japanese",
+    "country": "USA",
+    "awards": "10 wins & 19 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTNjYTA1NDMtZGZmZi00MTdiLThjZTMtZWU1MGYyZjZkNzgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "85%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "73/100"
+      }
+    ],
+    "metascore": "73",
+    "rating": 7.1,
+    "votes": "351,728",
+    "imdbid": "tt0405422",
+    "type": "movie",
+    "dvd": "13 Dec 2005",
+    "boxoffice": "$109,243,478",
+    "production": "Universal Pictures",
+    "website": "http://www.the40yearoldvirgin.com/",
+    "response": "True",
+    "name": "The 40-Year-Old Virgin",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0405422",
+    "lastImdbUpdate": "2018-12-03T08:15:09.216Z",
+    "lastUpdate": "2018-12-03T08:15:09.216Z"
   },
   {
     "dir": "#",
     "filename": "48 Hrs (1982).mp4",
-    "title": "48 Hrs (1982)",
+    "title": "48 Hrs.",
     "extension": "mp4",
     "size": 2243690411,
     "modified": "2012-12-12T10:26:46.000Z",
-    "accessed": "2018-10-23T00:53:54.403Z"
+    "accessed": "2018-10-23T00:53:54.403Z",
+    "filenameNoExt": "48 Hrs (1982)",
+    "_year_data": "1982",
+    "year": 1982,
+    "rated": "R",
+    "released": "1982-12-08T05:00:00.000Z",
+    "runtime": "96 min",
+    "genres": "Action, Comedy, Crime, Drama, Thriller",
+    "director": "Walter Hill",
+    "writer": "Roger Spottiswoode, Walter Hill, Larry Gross, Steven E. de Souza",
+    "actors": "Nick Nolte, Eddie Murphy, Annette O'Toole, Frank McRae",
+    "plot": "Oddball cop and tough guy, Jack Cates is the only survivor of a cop shooting and in hunting down the murderer collects Reggie Hammond from jail for 48 hours. Hammond is oddly motivated to help. The killer is searching for his stash of cash. Cates and Hammond who have the Black-white, cop-crook thing to work out make surprisingly good partners as they navigate through the city looking for their suspect.",
+    "languages": "English",
+    "country": "USA",
+    "awards": "Nominated for 1 Golden Globe. Another 2 wins & 1 nomination.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWFkZjNkNmEtMTE5OC00MzA4LThkNWUtOWJlNjUxZGFiYzhmXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "93%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "71/100"
+      }
+    ],
+    "metascore": "71",
+    "rating": 6.9,
+    "votes": "61,108",
+    "imdbid": "tt0083511",
+    "type": "movie",
+    "dvd": "26 Jan 1999",
+    "boxoffice": "N/A",
+    "production": "Paramount Home Video",
+    "website": "N/A",
+    "response": "True",
+    "name": "48 Hrs.",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0083511",
+    "lastImdbUpdate": "2018-12-03T08:15:10.153Z",
+    "lastUpdate": "2018-12-03T08:15:10.153Z"
   },
   {
     "dir": "#",
     "filename": "8MM (1999).m4v",
-    "title": "8MM (1999)",
+    "title": "8MM",
     "extension": "m4v",
     "size": 1074592554,
     "modified": "2011-01-14T21:45:50.000Z",
-    "accessed": "2018-10-23T00:53:55.522Z"
+    "accessed": "2018-10-23T00:53:55.522Z",
+    "filenameNoExt": "8MM (1999)",
+    "_year_data": "1999",
+    "year": 1999,
+    "rated": "R",
+    "released": "1999-02-26T05:00:00.000Z",
+    "runtime": "123 min",
+    "genres": "Mystery, Thriller",
+    "director": "Joel Schumacher",
+    "writer": "Andrew Kevin Walker",
+    "actors": "Nicolas Cage, Joaquin Phoenix, James Gandolfini, Peter Stormare",
+    "plot": "A small, seemingly innocuous plastic reel of film leads surveillance specialist Tom Welles down an increasingly dark and frightening path. With the help of the streetwise Max, Welles relentlessly follows a bizarre trail of evidence to determine the fate of a complete stranger. As his work turns into obsession, he drifts farther and farther away from his wife, family and simple life as a small-town private eye.",
+    "languages": "English",
+    "country": "Germany, USA",
+    "awards": "2 wins & 2 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjQwMmZmNWUtNGE0MS00ZjQ5LTkwNGItYWY3M2FhZDU5ZjBhXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "22%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "19/100"
+      }
+    ],
+    "metascore": "19",
+    "rating": 6.5,
+    "votes": "113,778",
+    "imdbid": "tt0134273",
+    "type": "movie",
+    "dvd": "22 May 2001",
+    "boxoffice": "N/A",
+    "production": "Columbia Pictures",
+    "website": "http://www.spe.sony.com/movies/8mm/index.html",
+    "response": "True",
+    "name": "8MM",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0134273",
+    "lastImdbUpdate": "2018-12-03T08:15:11.116Z",
+    "lastUpdate": "2018-12-03T08:15:11.116Z"
   },
   {
     "dir": "A",
@@ -123,34 +691,210 @@
     "extension": "m4v",
     "size": 1179767085,
     "modified": "2010-12-20T20:44:44.000Z",
-    "accessed": "2018-11-25T06:55:13.606Z"
+    "accessed": "2018-11-25T06:55:13.606Z",
+    "filenameNoExt": "The A-Team",
+    "_year_data": "2010",
+    "year": 2010,
+    "rated": "PG-13",
+    "released": "2010-06-11T04:00:00.000Z",
+    "runtime": "117 min",
+    "genres": "Action, Adventure, Comedy, Crime, Thriller",
+    "director": "Joe Carnahan",
+    "writer": "Joe Carnahan, Brian Bloom, Skip Woods, Frank Lupo (television series \"The A-Team\"), Stephen J. Cannell (television series \"The A-Team\")",
+    "actors": "Liam Neeson, Bradley Cooper, Jessica Biel, Quinton 'Rampage' Jackson",
+    "plot": "Four American soldiers who are in Iraq are sent on a mission to recover plates for printing 100 dollar bills that were used to print a billion dollars. After doing the job and returning to the base their commanding officer is killed in an explosion and the plates are stolen by another operative. They would be court martialed and sent to different prisons. 6 months later, the leader, Hannibal Smith is visited by a CIA spook who tells him he knows where the man who took the plates is and wants him and his men to recover it. So he helps him escape and he breaks out the others and they go after the plates. But after doing it, they discover that the spook might not be ok. And a military intelligence officer who was involved with one of them is pursuing them.",
+    "languages": "English, Spanish, French, Swahili, German",
+    "country": "USA",
+    "awards": "2 wins & 4 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc4ODc4NTQ1N15BMl5BanBnXkFtZTcwNDUxODUyMw@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "48%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "47/100"
+      }
+    ],
+    "metascore": "47",
+    "rating": 6.8,
+    "votes": "231,202",
+    "imdbid": "tt0429493",
+    "type": "movie",
+    "dvd": "14 Dec 2010",
+    "boxoffice": "$77,213,489",
+    "production": "20th Century Fox",
+    "website": "http://www.ateam-movie.com/",
+    "response": "True",
+    "name": "The A-Team",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0429493",
+    "lastImdbUpdate": "2018-12-03T08:15:12.087Z",
+    "lastUpdate": "2018-12-03T08:15:12.087Z"
   },
   {
     "dir": "A",
     "filename": "Abraham Lincoln - Vampire Hunter.mp4",
-    "title": "Abraham Lincoln - Vampire Hunter",
+    "title": "Abraham Lincoln: Vampire Hunter",
     "extension": "mp4",
     "size": 2480669051,
     "modified": "2012-11-11T23:44:36.000Z",
-    "accessed": "2018-11-25T06:55:03.590Z"
+    "accessed": "2018-11-25T06:55:03.590Z",
+    "filenameNoExt": "Abraham Lincoln - Vampire Hunter",
+    "_year_data": "2012",
+    "year": 2012,
+    "rated": "R",
+    "released": "2012-06-22T04:00:00.000Z",
+    "runtime": "105 min",
+    "genres": "Action, Fantasy, Horror, Western",
+    "director": "Timur Bekmambetov",
+    "writer": "Seth Grahame-Smith (screenplay by), Seth Grahame-Smith (based on the novel by)",
+    "actors": "Benjamin Walker, Dominic Cooper, Anthony Mackie, Mary Elizabeth Winstead",
+    "plot": "At the age of 9, Abraham Lincoln witnesses his mother being killed by a vampire, Jack Barts. Some 10 years later, he unsuccessfully tries to eliminate Barts but in the process makes the acquaintance of Henry Sturgess who teaches him how to fight and what is required to kill a vampire. The quid pro quo is that Abe will kill only those vampires that Henry directs him to. Abe relocates to Springfield where he gets a job as a store clerk while he studies the law and kills vampires by night. He also meets and eventually marries the pretty Mary Todd. Many years later as President of the United States, he comes to realize that vampires are fighting with the Confederate forces. As a result he mounts his own campaign to defeat them.",
+    "languages": "English",
+    "country": "USA",
+    "awards": "1 nomination.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjY2Mzc0MDA4NV5BMl5BanBnXkFtZTcwOTg5OTcxNw@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "35%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "42/100"
+      }
+    ],
+    "metascore": "42",
+    "rating": 5.9,
+    "votes": "140,444",
+    "imdbid": "tt1611224",
+    "type": "movie",
+    "dvd": "23 Oct 2012",
+    "boxoffice": "$37,300,000",
+    "production": "20th Century Fox",
+    "website": "http://www.abelincolnvampirehunter.com/",
+    "response": "True",
+    "name": "Abraham Lincoln: Vampire Hunter",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt1611224",
+    "lastImdbUpdate": "2018-12-03T08:15:13.016Z",
+    "lastUpdate": "2018-12-03T08:15:13.016Z"
   },
   {
     "dir": "A",
     "filename": "Across the Universe (2007).mp4",
-    "title": "Across the Universe (2007)",
+    "title": "Across the Universe",
     "extension": "mp4",
     "size": 3104511448,
     "modified": "2012-11-17T22:10:12.000Z",
-    "accessed": "2018-11-25T06:55:03.184Z"
+    "accessed": "2018-11-25T06:55:03.184Z",
+    "filenameNoExt": "Across the Universe (2007)",
+    "_year_data": "2007",
+    "year": 2007,
+    "rated": "PG-13",
+    "released": "2007-10-12T04:00:00.000Z",
+    "runtime": "133 min",
+    "genres": "Drama, Fantasy, Musical",
+    "director": "Julie Taymor",
+    "writer": "Dick Clement (screenplay), Ian La Frenais (screenplay), Julie Taymor (story), Dick Clement (story), Ian La Frenais (story)",
+    "actors": "Evan Rachel Wood, Jim Sturgess, Joe Anderson, Dana Fuchs",
+    "plot": "Across The Universe is a fictional love story set in the 1960s amid the turbulent years of anti-war protest, the struggle for free speech and civil rights, mind exploration and rock and roll. At once gritty, whimsical and highly theatrical, the story moves from high schools and universities in Massachusetts, Princeton and Ohio to the Lower East Side of Manhattan, the Detroit riots, Vietnam and the dockyards of Liverpool. A combination of live action and animation, the film is paired with many songs by The Beatles that defined the time.",
+    "languages": "English",
+    "country": "USA, UK",
+    "awards": "Nominated for 1 Oscar. Another 2 wins & 16 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIyMTUwNzg3Nl5BMl5BanBnXkFtZTcwMjM1MDI1MQ@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "53%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "56/100"
+      }
+    ],
+    "metascore": "56",
+    "rating": 7.4,
+    "votes": "99,388",
+    "imdbid": "tt0445922",
+    "type": "movie",
+    "dvd": "05 Feb 2008",
+    "boxoffice": "$24,343,673",
+    "production": "Sony",
+    "website": "http://www.sonypictures.com/movies/acrosstheuniverse/index.html",
+    "response": "True",
+    "name": "Across the Universe",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0445922",
+    "lastImdbUpdate": "2018-12-03T08:15:13.969Z",
+    "lastUpdate": "2018-12-03T08:15:13.969Z"
   },
   {
     "dir": "A",
     "filename": "Act of Valor (2012).m4v",
-    "title": "Act of Valor (2012)",
+    "title": "Act of Valor",
     "extension": "m4v",
     "size": 2692129978,
     "modified": "2012-05-22T05:29:20.000Z",
-    "accessed": "2018-11-25T06:55:05.479Z"
+    "accessed": "2018-11-25T06:55:05.479Z",
+    "filenameNoExt": "Act of Valor (2012)",
+    "_year_data": "2012",
+    "year": 2012,
+    "rated": "R",
+    "released": "2012-02-24T05:00:00.000Z",
+    "runtime": "110 min",
+    "genres": "Action, Adventure, Drama, Thriller, War",
+    "director": "Mike McCoy, Scott Waugh",
+    "writer": "Kurt Johnstad",
+    "actors": "Rorke Denver, Dave, Sonny, Weimy",
+    "plot": "An unprecedented blend of real-life heroism and original filmmaking, Act of Valor stars a group of active-duty Navy SEALs in a powerful story of contemporary global anti-terrorism. Inspired by true events, the film combines stunning combat sequences, up-to-the minute battlefield technology and heart-pumping emotion for the ultimate action adventure. Act of Valor takes audiences deep into the secretive world of the most elite, highly trained group of warriors in the modern world. When the rescue of a kidnapped CIA operative leads to the discovery of a deadly terrorist plot against the U.S., a team of SEALs is dispatched on a worldwide manhunt. As the valiant men of Bandito Platoon race to stop a coordinated attack that could kill and wound thousands of American civilians, they must balance their commitment to country, team and their families back home. Each time they accomplish their mission, a new piece of intelligence reveals another shocking twist to the deadly terror plot, which stretches from Chechnya to the Philippines and from Ukraine to Somalia. The widening operation sends the SEALs across the globe as they track the terrorist ring to the U.S.-Mexico border, where they engage in an epic firefight with an outcome that has potentially unimaginable consequences for the future of America.",
+    "languages": "English, Russian, Spanish",
+    "country": "USA",
+    "awards": "Nominated for 1 Golden Globe. Another 1 win & 6 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3NDQxMDAzM15BMl5BanBnXkFtZTcwNzEyNjgzNw@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "26%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "40/100"
+      }
+    ],
+    "metascore": "40",
+    "rating": 6.5,
+    "votes": "62,736",
+    "imdbid": "tt1591479",
+    "type": "movie",
+    "dvd": "05 Jun 2012",
+    "boxoffice": "$65,800,000",
+    "production": "Relativity Media",
+    "website": "http://www.actofvalor.com/",
+    "response": "True",
+    "name": "Act of Valor",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt1591479",
+    "lastImdbUpdate": "2018-12-03T08:15:14.893Z",
+    "lastUpdate": "2018-12-03T08:15:14.893Z"
   },
   {
     "dir": "A",
@@ -159,7 +903,38 @@
     "extension": "m4v",
     "size": 1612903871,
     "modified": "2011-08-01T21:36:36.000Z",
-    "accessed": "2018-11-25T06:55:18.269Z"
+    "accessed": "2018-11-25T06:55:18.269Z",
+    "filenameNoExt": "Adaptation",
+    "_year_data": "1918",
+    "year": 1918,
+    "rated": "N/A",
+    "released": "1918-03-25T04:00:00.000Z",
+    "runtime": "N/A",
+    "genres": "Documentary, Short",
+    "director": "Raymond L. Ditmars",
+    "writer": "N/A",
+    "actors": "N/A",
+    "plot": "N/A",
+    "languages": "English",
+    "country": "USA",
+    "awards": "N/A",
+    "poster": "N/A",
+    "ratings": [],
+    "metascore": "N/A",
+    "rating": 0,
+    "votes": "N/A",
+    "imdbid": "tt1441235",
+    "type": "movie",
+    "dvd": "N/A",
+    "boxoffice": "N/A",
+    "production": "N/A",
+    "website": "N/A",
+    "response": "True",
+    "name": "Adaptation",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt1441235",
+    "lastImdbUpdate": "2018-12-03T08:15:15.810Z",
+    "lastUpdate": "2018-12-03T08:15:15.810Z"
   },
   {
     "dir": "A",
@@ -168,7 +943,51 @@
     "extension": "m4v",
     "size": 1187015127,
     "modified": "2011-06-12T02:39:04.000Z",
-    "accessed": "2018-11-25T06:55:18.066Z"
+    "accessed": "2018-11-25T06:55:18.066Z",
+    "filenameNoExt": "The Adjustment Bureau",
+    "_year_data": "2011",
+    "year": 2011,
+    "rated": "PG-13",
+    "released": "2011-03-04T05:00:00.000Z",
+    "runtime": "106 min",
+    "genres": "Romance, Sci-Fi, Thriller",
+    "director": "George Nolfi",
+    "writer": "George Nolfi (screenplay), Philip K. Dick (short story \"Adjustment Team\")",
+    "actors": "Matt Damon, Emily Blunt, Lisa Thoreson, Florence Kastriner",
+    "plot": "Do we control our destiny, or do unseen forces manipulate us? A man glimpses the future Fate has planned for him and realizes he wants something else. To get it, he must pursue across, under and through the streets of modern-day New York the only woman he's ever loved. On the brink of winning a seat in the U.S. Senate, ambitious politician David Norris (Matt Damon) meets beautiful contemporary ballet dancer Elise Sellas (Emily Blunt), a woman like none he's ever known. But just as he realizes he's falling for her, mysterious men conspire to keep the two apart. David learns he is up against the agents of Fate itself, the men of The Adjustment Bureau, who will do everything in their considerable power to prevent David and Elise from being together. In the face of overwhelming odds, he must either let her go and accept a predetermined path... or risk everything to defy Fate and be with her.",
+    "languages": "English",
+    "country": "USA",
+    "awards": "1 win & 9 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzc0ZDcwZTYtOWUzZi00NDE4LWI4NjgtMWVjZTUyYTA2ZTNhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "71%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "60/100"
+      }
+    ],
+    "metascore": "60",
+    "rating": 7.1,
+    "votes": "222,255",
+    "imdbid": "tt1385826",
+    "type": "movie",
+    "dvd": "21 Jun 2011",
+    "boxoffice": "$62,453,315",
+    "production": "Universal Pictures",
+    "website": "http://www.theadjustmentbureau.com/",
+    "response": "True",
+    "name": "The Adjustment Bureau",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt1385826",
+    "lastImdbUpdate": "2018-12-03T08:15:16.748Z",
+    "lastUpdate": "2018-12-03T08:15:16.748Z"
   },
   {
     "dir": "A",
@@ -177,7 +996,47 @@
     "extension": "m4v",
     "size": 1182834945,
     "modified": "2011-11-27T01:15:38.000Z",
-    "accessed": "2018-11-25T06:55:13.477Z"
+    "accessed": "2018-11-25T06:55:13.477Z",
+    "filenameNoExt": "The Adventures of Mark Twain",
+    "_year_data": "1985",
+    "year": 1985,
+    "rated": "G",
+    "released": "1985-07-26T04:00:00.000Z",
+    "runtime": "86 min",
+    "genres": "Animation, Adventure, Family, Fantasy, Sci-Fi",
+    "director": "Will Vinton",
+    "writer": "Susan Shadburne, Mark Twain (segment)",
+    "actors": "James Whitmore, Michele Mariana, Gary Krug, Chris Ritchie",
+    "plot": "Based on elements from the stories of Mark Twain, this feature-length Claymation fantasy follows the adventures of Tom Sawyer, Becky Thatcher and Huck Finn as they stowaway aboard the interplanetary balloon of Mark Twain. Twain, disgusted with the human race, is intent upon finding Halley's Comet and crashing into it, achieving his \"destiny.\" It's up to Tom, Becky, and Huck to convince him that his judgment is wrong and that he still has much to offer humanity that might make a difference. Their efforts aren't just charitable; if they fail, they will share Twain's fate. Along the way, they use a magical time portal to get a detailed overview of the Twain philosophy, observing the \"historical\" events that inspired his works.",
+    "languages": "English",
+    "country": "USA",
+    "awards": "N/A",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGQ2YjBmZTktOTZmYi00MGQyLTllZWMtMDE4YWM3YzI0ZTY1XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "80%"
+      }
+    ],
+    "metascore": "N/A",
+    "rating": 7.5,
+    "votes": "2,201",
+    "imdbid": "tt0088678",
+    "type": "movie",
+    "dvd": "31 Jan 2006",
+    "boxoffice": "N/A",
+    "production": "Eureka Entertainment Ltd",
+    "website": "N/A",
+    "response": "True",
+    "name": "The Adventures of Mark Twain",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0088678",
+    "lastImdbUpdate": "2018-12-03T08:29:11.558Z",
+    "lastUpdate": "2018-12-03T08:29:11.558Z"
   },
   {
     "dir": "A",
@@ -186,7 +1045,51 @@
     "extension": "m4v",
     "size": 1611450970,
     "modified": "2012-02-25T06:20:34.000Z",
-    "accessed": "2018-11-25T06:55:18.053Z"
+    "accessed": "2018-11-25T06:55:18.053Z",
+    "filenameNoExt": "The Adventures of Tintin",
+    "_year_data": "2011",
+    "year": 2011,
+    "rated": "PG",
+    "released": "2011-12-21T05:00:00.000Z",
+    "runtime": "107 min",
+    "genres": "Animation, Action, Adventure, Family, Mystery",
+    "director": "Steven Spielberg",
+    "writer": "Hergé (based on \"The Adventures of Tintin\" by), Steven Moffat (screenplay by), Edgar Wright (screenplay by), Joe Cornish (screenplay by)",
+    "actors": "Jamie Bell, Andy Serkis, Daniel Craig, Nick Frost",
+    "plot": "Having bought a model ship, the Unicorn, for a pound off a market stall Tintin is initially puzzled that the sinister Mr. Sakharine should be so eager to buy it from him, resorting to murder and kidnapping Tintin - accompanied by his marvellous dog Snowy - to join him and his gang as they sail to Morocco on an old cargo ship. Sakharine has bribed the crew to revolt against the ship's master, drunken Captain Haddock, but Tintin, Snowy and Haddock escape, arriving in Morocco at the court of a sheikh, who also has a model of the Unicorn. Haddock tells Tintin that over three hundred years earlier his ancestor Sir Francis Haddock was forced to scuttle the original Unicorn when attacked by a piratical forebear of Sakharine but he managed to save his treasure and provide clues to its location in three separate scrolls, all of which were secreted in models of the Unicorn. Tintin and Sakharine have one each and the villain intends to use the glass-shattering top Cs of operatic soprano the Milanese Nightingale to secure the third. With aid from bumbling Interpol agents the Thompson Twins our boy hero, his dog and the captain must prevent Sakharine from obtaining all three scrolls to fulfil the prophesy that only the last of the Haddocks can discover the treasure's whereabouts.",
+    "languages": "English",
+    "country": "USA, New Zealand",
+    "awards": "Nominated for 1 Oscar. Another 21 wins & 60 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDE5MDExNTQ1OF5BMl5BanBnXkFtZTcwMDIxMTM5Ng@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "74%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "68/100"
+      }
+    ],
+    "metascore": "68",
+    "rating": 7.3,
+    "votes": "197,774",
+    "imdbid": "tt0983193",
+    "type": "movie",
+    "dvd": "13 Mar 2012",
+    "boxoffice": "$75,300,000",
+    "production": "Paramount",
+    "website": "http://www.Us.Movie.Tintin.com",
+    "response": "True",
+    "name": "The Adventures of Tintin",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0983193",
+    "lastImdbUpdate": "2018-12-03T08:29:12.564Z",
+    "lastUpdate": "2018-12-03T08:29:12.564Z"
   },
   {
     "dir": "A",
@@ -195,16 +1098,100 @@
     "extension": "m4v",
     "size": 1291752965,
     "modified": "2011-06-28T20:14:16.000Z",
-    "accessed": "2018-11-25T06:55:11.525Z"
+    "accessed": "2018-11-25T06:55:11.525Z",
+    "filenameNoExt": "The African Queen",
+    "_year_data": "1951",
+    "year": 1951,
+    "rated": "PG",
+    "released": "1952-03-21T04:00:00.000Z",
+    "runtime": "105 min",
+    "genres": "Adventure, Drama, Romance, War",
+    "director": "John Huston",
+    "writer": "C.S. Forester (novel), James Agee (adapted for the screen by), John Huston (adapted for the screen by)",
+    "actors": "Humphrey Bogart, Katharine Hepburn, Robert Morley, Peter Bull",
+    "plot": "September 1914, news reaches the colony German Eastern Africa that Germany is at war, so Reverend Samuel Sayer became a hostile foreigner. German imperial troops burn down his mission; he is beaten and dies of fever. His well-educated, snobbish sister Rose Sayer buries him and leaves by the only available transport, the dilapidated river steamboat 'African Queen' of grumpy Charlie Allnut. As if a long difficult journey without any comfort weren't bad enough for such odd companions, she is determined to find a way to do their bit for the British war effort (and avenge her brother) and aims high, as God is obviously on their side: construct their own equipment, a torpedo and the converted steamboat, to take out a huge German warship, the Louisa, which is hard to find on the giant lake and first of all to reach, in fact as daunting an expedition as anyone attempted since the late adventurous explorer John Speakes, but she presses till Charlie accepts to steam up the Ulana, about to brave a German fort, raging rapids, very bloodthirsty parasites and the endlessly branching stream which seems to go nowhere but impenetrable swamps... Despite fierce rows and moral antagonism between a bossy devout abstentionist and a free-spirited libertine drunk loner, the two grow closer to each-other as their quest drags on...",
+    "languages": "English, German, Swahili",
+    "country": "USA, UK",
+    "awards": "Won 1 Oscar. Another 2 wins & 9 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTg0NjY1NTEyMF5BMl5BanBnXkFtZTgwNjUwMTY3MjE@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "98%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "91/100"
+      }
+    ],
+    "metascore": "91",
+    "rating": 7.9,
+    "votes": "65,122",
+    "imdbid": "tt0043265",
+    "type": "movie",
+    "dvd": "09 Jul 2004",
+    "boxoffice": "N/A",
+    "production": "Twentieth Century Fox Home Entertainment",
+    "website": "N/A",
+    "response": "True",
+    "name": "The African Queen",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0043265",
+    "lastImdbUpdate": "2018-12-03T08:29:13.485Z",
+    "lastUpdate": "2018-12-03T08:29:13.485Z"
   },
   {
     "dir": "A",
     "filename": "Age of Heroes (2011).mp4",
-    "title": "Age of Heroes (2011)",
+    "title": "Age of Heroes",
     "extension": "mp4",
     "size": 2177316899,
     "modified": "2012-11-19T10:06:30.000Z",
-    "accessed": "2018-11-25T06:55:01.486Z"
+    "accessed": "2018-11-25T06:55:01.486Z",
+    "filenameNoExt": "Age of Heroes (2011)",
+    "_year_data": "2011",
+    "year": 2011,
+    "rated": "NOT RATED",
+    "released": "2012-01-17T05:00:00.000Z",
+    "runtime": "90 min",
+    "genres": "Action, Adventure, Drama, Thriller, War",
+    "director": "Adrian Vitoria",
+    "writer": "Ed Scates (screenplay), Adrian Vitoria (screenplay)",
+    "actors": "Sean Bean, Danny Dyer, Aksel Hennie, Izabella Miko",
+    "plot": "Based on the real-life events of Ian Fleming's 30 Commando during World War II this is a story which takes our heroes from the edge of defeat on the beaches of Dunkirk to the mountains of Norway on a dangerous mission behind enemy lines that, if successful, could change the course of the war.",
+    "languages": "English, Norwegian",
+    "country": "UK",
+    "awards": "N/A",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE2MzQ1MDA1M15BMl5BanBnXkFtZTcwNjUzMjEyNQ@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "40%"
+      }
+    ],
+    "metascore": "N/A",
+    "rating": 5.6,
+    "votes": "8,973",
+    "imdbid": "tt1590950",
+    "type": "movie",
+    "dvd": "23 Jan 2012",
+    "boxoffice": "N/A",
+    "production": "Metrodome Group",
+    "website": "http://www.ageofheroesmovie.com/",
+    "response": "True",
+    "name": "Age of Heroes",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt1590950",
+    "lastImdbUpdate": "2018-12-03T08:29:14.432Z",
+    "lastUpdate": "2018-12-03T08:29:14.432Z"
   },
   {
     "dir": "A",
@@ -213,16 +1200,104 @@
     "extension": "m4v",
     "size": 1281923858,
     "modified": "2011-04-19T01:28:58.000Z",
-    "accessed": "2018-11-25T06:55:17.557Z"
+    "accessed": "2018-11-25T06:55:17.557Z",
+    "filenameNoExt": "Agora",
+    "_year_data": "2009",
+    "year": 2009,
+    "rated": "R",
+    "released": "2009-10-09T04:00:00.000Z",
+    "runtime": "127 min",
+    "genres": "Adventure, Biography, Drama, History, Romance",
+    "director": "Alejandro Amenábar",
+    "writer": "Alejandro Amenábar, Mateo Gil",
+    "actors": "Rachel Weisz, Max Minghella, Oscar Isaac, Ashraf Barhom",
+    "plot": "Alexandria, 391 AD: Hypatia teaches astronomy, mathematics, and philosophy. Her student Orestes is in love with her, as is Davus, her personal slave. As the city's Christians, led by Ammonius and Cyril, gain political power, the institutions of learning may crumble along with the governance of slavery. Jump ahead 20 years: Orestes, the city's prefect, has an uneasy peace with Christians, led by Cyril. A group from the newly empowered Christians has now taken to enforce their cultural hegemony zealously; first they see the Jews as their obstacle, then nonbelievers. Hypatia has no interest in faith; she's concerned about the movement of celestial bodies and \"the brotherhood of all\". Although her former slave doesn't see it that way.",
+    "languages": "English",
+    "country": "Spain",
+    "awards": "11 wins & 14 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA2MjIwMjE0MjZeQTJeQWpwZ15BbWU3MDU4ODIwODI@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "53%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "55/100"
+      }
+    ],
+    "metascore": "55",
+    "rating": 7.2,
+    "votes": "59,739",
+    "imdbid": "tt1186830",
+    "type": "movie",
+    "dvd": "09 Oct 2010",
+    "boxoffice": "$600,000",
+    "production": "Newmarket Films",
+    "website": "http://www.agorathemovie.com/",
+    "response": "True",
+    "name": "Agora",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt1186830",
+    "lastImdbUpdate": "2018-12-03T08:29:15.396Z",
+    "lastUpdate": "2018-12-03T08:29:15.396Z"
   },
   {
     "dir": "A",
     "filename": "Air America (1990).mp4",
-    "title": "Air America (1990)",
+    "title": "Air America",
     "extension": "mp4",
     "size": 2607847524,
     "modified": "2012-12-03T22:35:46.000Z",
-    "accessed": "2018-11-25T06:55:03.235Z"
+    "accessed": "2018-11-25T06:55:03.235Z",
+    "filenameNoExt": "Air America (1990)",
+    "_year_data": "1990",
+    "year": 1990,
+    "rated": "R",
+    "released": "1990-08-10T04:00:00.000Z",
+    "runtime": "113 min",
+    "genres": "Action, Comedy",
+    "director": "Roger Spottiswoode",
+    "writer": "Christopher Robbins (book), John Eskow (screenplay), Richard Rush (screenplay)",
+    "actors": "Mel Gibson, Robert Downey Jr., Nancy Travis, Ken Jenkins",
+    "plot": "Air America was the CIA's private airline operating in Laos during the Vietnam War, running anything and everything from soldiers to foodstuffs for local villagers. After losing his pilot's license, Billy Covington is recruited into it, and ends up in the middle of a bunch of lunatic pilots, gun-running by his friend Gene Ryack, and opium smuggling by his own superiors.",
+    "languages": "English, Lao",
+    "country": "USA",
+    "awards": "1 nomination.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDRiNzdlYzUtNzIxMy00OGI4LThlNjQtNTI3Njg5NjVlOWJkL2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "13%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "33/100"
+      }
+    ],
+    "metascore": "33",
+    "rating": 5.8,
+    "votes": "24,548",
+    "imdbid": "tt0099005",
+    "type": "movie",
+    "dvd": "25 Jul 2000",
+    "boxoffice": "N/A",
+    "production": "Live Home Video",
+    "website": "N/A",
+    "response": "True",
+    "name": "Air America",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0099005",
+    "lastImdbUpdate": "2018-12-03T08:29:16.346Z",
+    "lastUpdate": "2018-12-03T08:29:16.346Z"
   },
   {
     "dir": "A",
@@ -231,25 +1306,116 @@
     "extension": "mp4",
     "size": 1890034782,
     "modified": "2012-11-20T13:01:44.000Z",
-    "accessed": "2018-11-25T06:55:03.430Z"
+    "accessed": "2018-11-25T06:55:03.430Z",
+    "filenameNoExt": "Airplane 2 (1982)",
+    "imdbError": true,
+    "lastImdbUpdate": "2018-12-03T08:49:09.098Z"
   },
   {
     "dir": "A",
     "filename": "Airplane! (1980).mp4",
-    "title": "Airplane! (1980)",
+    "title": "Airplane!",
     "extension": "mp4",
     "size": 2050492896,
     "modified": "2012-11-26T21:26:22.000Z",
-    "accessed": "2018-11-25T06:55:02.992Z"
+    "accessed": "2018-11-25T06:55:02.992Z",
+    "filenameNoExt": "Airplane! (1980)",
+    "_year_data": "1980",
+    "year": 1980,
+    "rated": "PG",
+    "released": "1980-07-02T04:00:00.000Z",
+    "runtime": "88 min",
+    "genres": "Comedy",
+    "director": "Jim Abrahams, David Zucker, Jerry Zucker",
+    "writer": "Jim Abrahams (written for the screen by), David Zucker (written for the screen by), Jerry Zucker (written for the screen by)",
+    "actors": "Kareem Abdul-Jabbar, Lloyd Bridges, Peter Graves, Julie Hagerty",
+    "plot": "Still craving for the love of his life, Ted Striker follows Elaine onto the flight that she is working on as a member of the cabin crew. Elaine doesn't want to be with Ted anymore, but when the crew and passengers fall ill from food poisoning, all eyes are on Ted.",
+    "languages": "English",
+    "country": "USA",
+    "awards": "Nominated for 1 Golden Globe. Another 2 wins & 6 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjA3YjdhMWEtYjc2Ni00YzVlLWI0MTUtMGZmNTJjNmU0Yzk2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "78/100"
+      }
+    ],
+    "metascore": "78",
+    "rating": 7.8,
+    "votes": "184,653",
+    "imdbid": "tt0080339",
+    "type": "movie",
+    "dvd": "24 Oct 2000",
+    "boxoffice": "N/A",
+    "production": "Paramount Pictures",
+    "website": "N/A",
+    "response": "True",
+    "name": "Airplane!",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0080339",
+    "lastImdbUpdate": "2018-12-03T08:31:57.446Z",
+    "lastUpdate": "2018-12-03T08:31:57.446Z"
   },
   {
     "dir": "A",
     "filename": "Alice in Wonderland (2010).mp4",
-    "title": "Alice in Wonderland (2010)",
+    "title": "Alice in Wonderland",
     "extension": "mp4",
     "size": 2535010531,
     "modified": "2012-11-19T01:02:42.000Z",
-    "accessed": "2018-11-25T06:55:08.482Z"
+    "accessed": "2018-11-25T06:55:08.482Z",
+    "filenameNoExt": "Alice in Wonderland (2010)",
+    "_year_data": "2010",
+    "year": 2010,
+    "rated": "PG",
+    "released": "2010-03-05T05:00:00.000Z",
+    "runtime": "108 min",
+    "genres": "Adventure, Family, Fantasy",
+    "director": "Tim Burton",
+    "writer": "Linda Woolverton (screenplay), Lewis Carroll (books)",
+    "actors": "Johnny Depp, Mia Wasikowska, Helena Bonham Carter, Anne Hathaway",
+    "plot": "Alice, an unpretentious and individual 19-year-old, is betrothed to a dunce of an English nobleman. At her engagement party, she escapes the crowd to consider whether to go through with the marriage and falls down a hole in the garden after spotting an unusual rabbit. Arriving in a strange and surreal place called \"Underland,\" she finds herself in a world that resembles the nightmares she had as a child, filled with talking animals, villainous queens and knights, and frumious bandersnatches. Alice realizes that she is there for a reason--to conquer the horrific Jabberwocky and restore the rightful queen to her throne.",
+    "languages": "English",
+    "country": "USA",
+    "awards": "Won 2 Oscars. Another 31 wins & 62 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMwNjAxMTc0Nl5BMl5BanBnXkFtZTcwODc3ODk5Mg@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "51%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "53/100"
+      }
+    ],
+    "metascore": "53",
+    "rating": 6.5,
+    "votes": "347,976",
+    "imdbid": "tt1014759",
+    "type": "movie",
+    "dvd": "01 Jun 2010",
+    "boxoffice": "$319,323,000",
+    "production": "Walt Disney Pictures",
+    "website": "http://disney.go.com/disneypictures/aliceinwonderland/",
+    "response": "True",
+    "name": "Alice in Wonderland",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt1014759",
+    "lastImdbUpdate": "2018-12-03T08:31:58.384Z",
+    "lastUpdate": "2018-12-03T08:31:58.384Z"
   },
   {
     "dir": "A",
@@ -258,7 +1424,51 @@
     "extension": "m4v",
     "size": 3133153099,
     "modified": "2012-11-19T01:05:02.000Z",
-    "accessed": "2018-11-25T06:55:04.368Z"
+    "accessed": "2018-11-25T06:55:04.368Z",
+    "filenameNoExt": "Alien",
+    "_year_data": "1979",
+    "year": 1979,
+    "rated": "R",
+    "released": "1979-06-22T04:00:00.000Z",
+    "runtime": "116 min",
+    "genres": "Horror, Sci-Fi",
+    "director": "Ridley Scott",
+    "writer": "Dan O'Bannon (story), Ronald Shusett (story), Dan O'Bannon (screenplay)",
+    "actors": "Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton",
+    "plot": "A commercial crew aboard the deep space towing vessel, Nostromo is on its way home when they pick up an SOS warning from a distant moon. What they don't know is that the SOS warning is not like any other ordinary warning call. Picking up the signal, the crew realizes that they are not alone on the spaceship when an alien stowaway is on the cargo ship.",
+    "languages": "English",
+    "country": "UK, USA",
+    "awards": "Won 1 Oscar. Another 16 wins & 19 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "metascore": "83",
+    "rating": 8.5,
+    "votes": "687,573",
+    "imdbid": "tt0078748",
+    "type": "movie",
+    "dvd": "06 Jan 2004",
+    "boxoffice": "N/A",
+    "production": "20th Century Fox",
+    "website": "http://www.foxmovies.com/index1.html",
+    "response": "True",
+    "name": "Alien",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0078748",
+    "lastImdbUpdate": "2018-12-03T08:31:59.338Z",
+    "lastUpdate": "2018-12-03T08:31:59.338Z"
   },
   {
     "dir": "A",
@@ -267,7 +1477,51 @@
     "extension": "m4v",
     "size": 1070388020,
     "modified": "2011-03-25T20:50:24.000Z",
-    "accessed": "2018-11-25T06:55:07.446Z"
+    "accessed": "2018-11-25T06:55:07.446Z",
+    "filenameNoExt": "All Good Things",
+    "_year_data": "2010",
+    "year": 2010,
+    "rated": "R",
+    "released": "2010-12-09T05:00:00.000Z",
+    "runtime": "101 min",
+    "genres": "Crime, Drama, Mystery, Romance, Thriller",
+    "director": "Andrew Jarecki",
+    "writer": "Marcus Hinchey, Marc Smerling",
+    "actors": "Ryan Gosling, Kirsten Dunst, Frank Langella, Lily Rabe",
+    "plot": "A love story and murder mystery based on the most notorious unsolved murder case in New York history. The original screenplay uses newly discovered facts, court records and speculation as the foundation for a story of family, obsession, love and loss.",
+    "languages": "English",
+    "country": "USA",
+    "awards": "1 nomination.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcwMjIyMTc2Nl5BMl5BanBnXkFtZTcwOTQyMzc5Mw@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "34%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "57/100"
+      }
+    ],
+    "metascore": "57",
+    "rating": 6.3,
+    "votes": "48,298",
+    "imdbid": "tt1175709",
+    "type": "movie",
+    "dvd": "29 Mar 2011",
+    "boxoffice": "$578,382",
+    "production": "Magnolia Pictures",
+    "website": "http://www.magpictures.com/allgoodthings/",
+    "response": "True",
+    "name": "All Good Things",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt1175709",
+    "lastImdbUpdate": "2018-12-03T08:32:00.277Z",
+    "lastUpdate": "2018-12-03T08:32:00.277Z"
   },
   {
     "dir": "A",
@@ -276,7 +1530,51 @@
     "extension": "m4v",
     "size": 1501985538,
     "modified": "2011-07-07T18:58:06.000Z",
-    "accessed": "2018-11-25T06:55:18.374Z"
+    "accessed": "2018-11-25T06:55:18.374Z",
+    "filenameNoExt": "All the President's Men",
+    "_year_data": "1976",
+    "year": 1976,
+    "rated": "PG",
+    "released": "1976-04-09T04:00:00.000Z",
+    "runtime": "138 min",
+    "genres": "Biography, Drama, History, Thriller",
+    "director": "Alan J. Pakula",
+    "writer": "Carl Bernstein (book), Bob Woodward (book), William Goldman (screenplay)",
+    "actors": "Dustin Hoffman, Robert Redford, Jack Warden, Martin Balsam",
+    "plot": "In the run-up to the 1972 elections, Washington Post reporter Bob Woodward covers what seems to be a minor break-in at the Democratic Party National headquarters. He is surprised to find top lawyers already on the defense case, and the discovery of names and addresses of Republican fund organizers on the accused further arouses his suspicions. The editor of the Post is prepared to run with the story and assigns Woodward and Carl Bernstein to it. They find the trail leading higher and higher in the Republican Party, and eventually into the White House itself.",
+    "languages": "English, Spanish",
+    "country": "USA",
+    "awards": "Won 4 Oscars. Another 13 wins & 21 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWI2YWQxM2MtY2U4Yi00YjgzLTgwNzktN2ExNTgzNTIzMmUzXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "93%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "80/100"
+      }
+    ],
+    "metascore": "80",
+    "rating": 8,
+    "votes": "88,328",
+    "imdbid": "tt0074119",
+    "type": "movie",
+    "dvd": "30 Oct 1997",
+    "boxoffice": "N/A",
+    "production": "Warner Home Video",
+    "website": "N/A",
+    "response": "True",
+    "name": "All the President's Men",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0074119",
+    "lastImdbUpdate": "2018-12-03T08:32:01.243Z",
+    "lastUpdate": "2018-12-03T08:32:01.243Z"
   },
   {
     "dir": "A",
@@ -285,7 +1583,51 @@
     "extension": "m4v",
     "size": 1075154379,
     "modified": "2011-03-19T18:51:20.000Z",
-    "accessed": "2018-11-25T06:55:16.870Z"
+    "accessed": "2018-11-25T06:55:16.870Z",
+    "filenameNoExt": "American Beauty",
+    "_year_data": "1999",
+    "year": 1999,
+    "rated": "R",
+    "released": "1999-10-01T04:00:00.000Z",
+    "runtime": "122 min",
+    "genres": "Drama",
+    "director": "Sam Mendes",
+    "writer": "Alan Ball",
+    "actors": "Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley",
+    "plot": "After his death sometime in his forty-third year, suburbanite Lester Burnham tells of the last few weeks of his life, during which he had no idea of his imminent passing. He is a husband to real estate agent Carolyn Burnham and father to high school student Janie Burnham. Although Lester and Carolyn once loved each other, they now merely tolerate each other. Typical wallflower Janie too hates both her parents, the three who suffer individually in silence in their home life. Janie tries to steer clear of both her parents. Carolyn, relatively new to the real estate business, wants to create the persona of success to further her career, she aspiring to the professional life of Buddy Kane, the king of the real estate business in their neighborhood. Lester merely walks mindlessly through life, including at his job in advertising. His company is downsizing, and he, like all the other employees, has to justify his position to the newly hired efficiency expert to keep his job. Things change for Lester when he falls in love at first sight with Janie's more experienced classmate, Angela Hays. Both Janie and Angela can see Lester's sexual infatuation with Angela, who courts such attention from any man as a sign that she is model material, she having once appeared in Seventeen and it a career to which she aspires. Lester's infatuation with Angela gives him a reenergized view on life, where he openly doesn't care anymore what anyone thinks about what he does, anyone except Angela. This infatuation coincides with the Fittses moving in next door: homophobic disciplinarian US Marine Colonel Frank Fitts who rules the house with a military fist (that fist being both figurative and literal), his semi-comatose wife Barbara Fitts, and their bright and quietly subversive eighteen year old son Ricky Fitts, who openly abides by his father's rules while behind the scenes lives by his own quite different perspective. Much like Lester's infatuation, Ricky immediately becomes infatuated with Janie, he who considers girls like Angela as ordinary. The entry of Angela and the Fittses into the Burnhams' lives ultimately leads to each of the players confronting what is truly in his or her heart.",
+    "languages": "English",
+    "country": "USA",
+    "awards": "Won 5 Oscars. Another 104 wins & 100 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "88%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "86/100"
+      }
+    ],
+    "metascore": "86",
+    "rating": 8.4,
+    "votes": "960,001",
+    "imdbid": "tt0169547",
+    "type": "movie",
+    "dvd": "02 Jan 2002",
+    "boxoffice": "N/A",
+    "production": "Dream Works",
+    "website": "http://www.amazon.com/exec/obidos/subst/video/misc/dreamworks/american-beauty/ab-home.html/002-3821383-4244813",
+    "response": "True",
+    "name": "American Beauty",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0169547",
+    "lastImdbUpdate": "2018-12-03T08:32:02.225Z",
+    "lastUpdate": "2018-12-03T08:32:02.225Z"
   },
   {
     "dir": "A",
@@ -294,7 +1636,51 @@
     "extension": "m4v",
     "size": 1613460859,
     "modified": "2011-03-17T10:40:24.000Z",
-    "accessed": "2018-11-25T06:55:05.659Z"
+    "accessed": "2018-11-25T06:55:05.659Z",
+    "filenameNoExt": "American Gangster",
+    "_year_data": "2007",
+    "year": 2007,
+    "rated": "R",
+    "released": "2007-11-02T04:00:00.000Z",
+    "runtime": "157 min",
+    "genres": "Biography, Crime, Drama, Thriller",
+    "director": "Ridley Scott",
+    "writer": "Steven Zaillian, Mark Jacobson (article)",
+    "actors": "Denzel Washington, Russell Crowe, Chiwetel Ejiofor, Josh Brolin",
+    "plot": "Following the death of his employer and mentor, Bumpy Johnson, Frank Lucas establishes himself as the number one importer of heroin in the Harlem district of Manhattan. He does so by buying heroin directly from the source in South East Asia and he comes up with a unique way of importing the drugs into the United States. As a result, his product is superior to what is currently available on the street and his prices are lower. His alliance with the New York Mafia ensures his position. It is also the story of a dedicated and honest policeman, Richie Roberts, who heads up a joint narcotics task force with the Federal government. Based on a true story.",
+    "languages": "English, Thai, Spanish",
+    "country": "USA, UK",
+    "awards": "Nominated for 2 Oscars. Another 12 wins & 35 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkyNzY5MDA5MV5BMl5BanBnXkFtZTcwMjg4MzI3MQ@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "80%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "76/100"
+      }
+    ],
+    "metascore": "76",
+    "rating": 7.8,
+    "votes": "357,934",
+    "imdbid": "tt0765429",
+    "type": "movie",
+    "dvd": "19 Feb 2008",
+    "boxoffice": "$130,127,620",
+    "production": "Universal Pictures",
+    "website": "http://www.americangangster.net",
+    "response": "True",
+    "name": "American Gangster",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0765429",
+    "lastImdbUpdate": "2018-12-03T08:32:03.151Z",
+    "lastUpdate": "2018-12-03T08:32:03.151Z"
   },
   {
     "dir": "A",
@@ -303,7 +1689,51 @@
     "extension": "m4v",
     "size": 1291142251,
     "modified": "2011-05-30T01:05:26.000Z",
-    "accessed": "2018-11-25T06:55:09.817Z"
+    "accessed": "2018-11-25T06:55:09.817Z",
+    "filenameNoExt": "American Graffiti",
+    "_year_data": "1973",
+    "year": 1973,
+    "rated": "PG",
+    "released": "1973-08-11T04:00:00.000Z",
+    "runtime": "110 min",
+    "genres": "Comedy, Drama",
+    "director": "George Lucas",
+    "writer": "George Lucas, Gloria Katz, Willard Huyck",
+    "actors": "Richard Dreyfuss, Ron Howard, Paul Le Mat, Charles Martin Smith",
+    "plot": "It's the proverbial end of the summer 1962 in a small southern California town. It's the evening before best friends and recent high school graduates, Curt Henderson and Steve Bolander, are scheduled to leave town to head to college back east. Curt, who received a lucrative local scholarship, is seen as the promise that their class holds. But Curt is having second thoughts about leaving what Steve basically sees as their dead end town. Curt's beliefs are strengthened when he spots an unknown beautiful blonde in a T-bird who mouths the words \"I love you\" to him. As Curt tries to find that blonde while trying to get away from a local gang who have him somewhat hostage, Curt may come to a decision about his immediate future. Outgoing class president Steve, on the other hand, wants to leave, despite meaning that he will leave girlfriend, head cheerleader and Curt's sister, Laurie Henderson, behind. Steve and Laurie spend the evening \"negotiating\" the state of their relationship. Meanwhile, two of their friends cruise around town for the evening. Steve has left his car to meek and mild-mannered Terry \"Toad\" Fields to look after during his absence. The wheels give Toad a new sense of confidence, which he uses to try and impress Debbie Dunham, a more experienced girl generally out of his league. And John Milner, who is seen as the king of the street race in his souped-up yellow deuce coupe, tries to get rid of precocious pre-teen, Carol Morrison, who has somehow become his passenger for the evening, while dealing with the challenge of bold out-of-towner, Bob Falfa.",
+    "languages": "English",
+    "country": "USA",
+    "awards": "Nominated for 5 Oscars. Another 9 wins & 8 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI5NjM5MjIyNF5BMl5BanBnXkFtZTgwNjg2MTUxMDE@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "97/100"
+      }
+    ],
+    "metascore": "97",
+    "rating": 7.5,
+    "votes": "72,513",
+    "imdbid": "tt0069704",
+    "type": "movie",
+    "dvd": "15 Sep 1998",
+    "boxoffice": "N/A",
+    "production": "Universal Pictures",
+    "website": "N/A",
+    "response": "True",
+    "name": "American Graffiti",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0069704",
+    "lastImdbUpdate": "2018-12-03T08:32:04.115Z",
+    "lastUpdate": "2018-12-03T08:32:04.115Z"
   },
   {
     "dir": "A",
@@ -312,7 +1742,51 @@
     "extension": "m4v",
     "size": 1074609593,
     "modified": "2011-03-31T12:11:12.000Z",
-    "accessed": "2018-11-25T06:55:04.483Z"
+    "accessed": "2018-11-25T06:55:04.483Z",
+    "filenameNoExt": "American History X",
+    "_year_data": "1998",
+    "year": 1998,
+    "rated": "R",
+    "released": "1998-11-20T05:00:00.000Z",
+    "runtime": "119 min",
+    "genres": "Crime, Drama",
+    "director": "Tony Kaye",
+    "writer": "David McKenna",
+    "actors": "Edward Norton, Edward Furlong, Beverly D'Angelo, Jennifer Lien",
+    "plot": "Derek Vineyard is paroled after serving 3 years in prison for brutally killing two black men who tried to break into/steal his truck. Through his brother, Danny Vineyard's narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did.",
+    "languages": "English",
+    "country": "USA",
+    "awards": "Nominated for 1 Oscar. Another 4 wins & 13 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjA0MTM4MTQtNzY5MC00NzY3LWI1ZTgtYzcxMjkyMzU4MDZiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "83%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "62/100"
+      }
+    ],
+    "metascore": "62",
+    "rating": 8.5,
+    "votes": "919,159",
+    "imdbid": "tt0120586",
+    "type": "movie",
+    "dvd": "06 Apr 1999",
+    "boxoffice": "N/A",
+    "production": "New Line Cinema",
+    "website": "http://www.historyx.com",
+    "response": "True",
+    "name": "American History X",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0120586",
+    "lastImdbUpdate": "2018-12-03T08:32:05.069Z",
+    "lastUpdate": "2018-12-03T08:32:05.069Z"
   },
   {
     "dir": "A",
@@ -321,7 +1795,51 @@
     "extension": "m4v",
     "size": 840777387,
     "modified": "2011-03-18T20:32:08.000Z",
-    "accessed": "2018-11-25T06:55:04.996Z"
+    "accessed": "2018-11-25T06:55:04.996Z",
+    "filenameNoExt": "American Psycho",
+    "_year_data": "2000",
+    "year": 2000,
+    "rated": "R",
+    "released": "2000-04-14T04:00:00.000Z",
+    "runtime": "101 min",
+    "genres": "Crime, Drama",
+    "director": "Mary Harron",
+    "writer": "Bret Easton Ellis (novel), Mary Harron (screenplay), Guinevere Turner (screenplay)",
+    "actors": "Christian Bale, Justin Theroux, Josh Lucas, Bill Sage",
+    "plot": "Patrick Bateman is handsome, well educated and intelligent. He is twenty-seven and living his own American dream. He works by day on Wall Street, earning a fortune to complement the one he was born with. At night he descends into madness, as he experiments with fear and violence.",
+    "languages": "English, Spanish, Cantonese",
+    "country": "USA, Canada",
+    "awards": "5 wins & 8 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "68%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "64/100"
+      }
+    ],
+    "metascore": "64",
+    "rating": 7.6,
+    "votes": "416,989",
+    "imdbid": "tt0144084",
+    "type": "movie",
+    "dvd": "05 Sep 2000",
+    "boxoffice": "N/A",
+    "production": "Lions Gate Films",
+    "website": "http://www.americanpsycho.com",
+    "response": "True",
+    "name": "American Psycho",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0144084",
+    "lastImdbUpdate": "2018-12-03T08:32:05.994Z",
+    "lastUpdate": "2018-12-03T08:32:05.994Z"
   },
   {
     "dir": "A",
@@ -330,16 +1848,104 @@
     "extension": "m4v",
     "size": 2863334130,
     "modified": "2012-07-03T21:21:24.000Z",
-    "accessed": "2018-11-25T06:55:04.834Z"
+    "accessed": "2018-11-25T06:55:04.834Z",
+    "filenameNoExt": "American Reunion",
+    "_year_data": "2012",
+    "year": 2012,
+    "rated": "R",
+    "released": "2012-04-06T04:00:00.000Z",
+    "runtime": "113 min",
+    "genres": "Comedy",
+    "director": "Jon Hurwitz, Hayden Schlossberg",
+    "writer": "Jon Hurwitz (screenplay), Hayden Schlossberg (screenplay), Adam Herz (characters)",
+    "actors": "Jason Biggs, Alyson Hannigan, Chris Klein, Thomas Ian Nicholas",
+    "plot": "Over a decade has passed and the gang return to East Great Falls, Michigan, for the weekend. They will discover how their lives have developed as they gather for their high school reunion. How has life treated Michelle, Jim, Heather, Oz, Kevin, Vicky, Finch, Stifler, and Stifler's mom? In the summer of 1999, it was four boys on a quest to lose their virginity. Now Kara is a cute high school senior looking for the perfect guy to lose her virginity to.",
+    "languages": "English",
+    "country": "USA",
+    "awards": "1 win & 4 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY4MTEyMzU1N15BMl5BanBnXkFtZTcwNDQ0NTc1Nw@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "44%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "49/100"
+      }
+    ],
+    "metascore": "49",
+    "rating": 6.7,
+    "votes": "188,429",
+    "imdbid": "tt1605630",
+    "type": "movie",
+    "dvd": "10 Jul 2012",
+    "boxoffice": "$55,300,000",
+    "production": "Universal Studios",
+    "website": "http://www.americanreunionmovie.com",
+    "response": "True",
+    "name": "American Reunion",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt1605630",
+    "lastImdbUpdate": "2018-12-03T08:32:06.965Z",
+    "lastUpdate": "2018-12-03T08:32:06.965Z"
   },
   {
     "dir": "A",
     "filename": "American Sniper (2014).mp4",
-    "title": "American Sniper (2014)",
+    "title": "American Sniper",
     "extension": "mp4",
     "size": 2099134725,
     "modified": "2015-05-09T21:42:20.000Z",
-    "accessed": "2018-11-25T06:55:07.374Z"
+    "accessed": "2018-11-25T06:55:07.374Z",
+    "filenameNoExt": "American Sniper (2014)",
+    "_year_data": "2014",
+    "year": 2014,
+    "rated": "R",
+    "released": "2015-01-16T05:00:00.000Z",
+    "runtime": "133 min",
+    "genres": "Action, Biography, Drama, History, Thriller, War",
+    "director": "Clint Eastwood",
+    "writer": "Jason Hall, Chris Kyle (book), Scott McEwen (book), Jim DeFelice (book)",
+    "actors": "Bradley Cooper, Kyle Gallner, Cole Konis, Ben Reed",
+    "plot": "Chris Kyle was nothing more than a Texan man who dreamed of becoming a cowboy, but in his thirties he found out that maybe his life needed something different, something where he could express his real talent, something that could help America in its fight against terrorism. So he joined the SEALs in order to become a sniper. After marrying, Kyle and the other members of the team are called for their first tour of Iraq. Kyle's struggle isn't with his missions, but about his relationship with the reality of the war and, once returned at home, how he manages to handle it with his urban life, his wife and kids.",
+    "languages": "English, Arabic",
+    "country": "USA",
+    "awards": "Won 1 Oscar. Another 23 wins & 42 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "72%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "72/100"
+      }
+    ],
+    "metascore": "72",
+    "rating": 7.3,
+    "votes": "387,099",
+    "imdbid": "tt2179136",
+    "type": "movie",
+    "dvd": "19 May 2015",
+    "boxoffice": "$274,377,268",
+    "production": "Warner Bros.",
+    "website": "http://www.americansnipermovie.com",
+    "response": "True",
+    "name": "American Sniper",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt2179136",
+    "lastImdbUpdate": "2018-12-03T08:32:07.936Z",
+    "lastUpdate": "2018-12-03T08:32:07.936Z"
   },
   {
     "dir": "A",
@@ -348,34 +1954,210 @@
     "extension": "m4v",
     "size": 1073564703,
     "modified": "2011-04-02T08:34:34.000Z",
-    "accessed": "2018-11-25T06:55:12.361Z"
+    "accessed": "2018-11-25T06:55:12.361Z",
+    "filenameNoExt": "The American",
+    "_year_data": "2010",
+    "year": 2010,
+    "rated": "R",
+    "released": "2010-09-01T04:00:00.000Z",
+    "runtime": "105 min",
+    "genres": "Crime, Drama, Thriller",
+    "director": "Anton Corbijn",
+    "writer": "Rowan Joffe (screenplay), Martin Booth (novel)",
+    "actors": "George Clooney, Irina Björklund, Lars Hjelm, Björn Granath",
+    "plot": "Alone among assassins, Jack is a master craftsman. When a job in Sweden ends more harshly than expected for this American abroad, he vows to his contact Pavel that his next assignment will be his last. Jack reports to the Italian countryside, where he holes up in a small town and relishes being away from death for a spell. The assignment, as specified by a Belgian woman, Mathilde, is in the offing as a weapon is constructed. Surprising himself, Jack seeks out the friendship of local priest Father Benedetto and pursues romance with local woman Clara. But by stepping out of the shadows, Jack may be tempting fate.",
+    "languages": "English, Italian",
+    "country": "USA, UK",
+    "awards": "3 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMDg1NDcxM15BMl5BanBnXkFtZTcwODc3MDg1Mw@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "65%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "61/100"
+      }
+    ],
+    "metascore": "61",
+    "rating": 6.3,
+    "votes": "85,522",
+    "imdbid": "tt1440728",
+    "type": "movie",
+    "dvd": "28 Dec 2010",
+    "boxoffice": "$35,596,227",
+    "production": "Focus Features",
+    "website": "http://www.TheAmericanTheMovie.com/",
+    "response": "True",
+    "name": "The American",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt1440728",
+    "lastImdbUpdate": "2018-12-03T08:32:08.910Z",
+    "lastUpdate": "2018-12-03T08:32:08.910Z"
   },
   {
     "dir": "A",
     "filename": "Anchorman The Legend of Ron Burgundy.m4v",
-    "title": "Anchorman The Legend of Ron Burgundy",
+    "title": "Anchorman: The Legend of Ron Burgundy",
     "extension": "m4v",
     "size": 944468717,
     "modified": "2010-12-20T09:54:28.000Z",
-    "accessed": "2018-11-25T06:55:04.904Z"
+    "accessed": "2018-11-25T06:55:04.904Z",
+    "filenameNoExt": "Anchorman The Legend of Ron Burgundy",
+    "_year_data": "2004",
+    "year": 2004,
+    "rated": "PG-13",
+    "released": "2004-07-09T04:00:00.000Z",
+    "runtime": "94 min",
+    "genres": "Comedy",
+    "director": "Adam McKay",
+    "writer": "Will Ferrell, Adam McKay",
+    "actors": "Will Ferrell, Christina Applegate, Paul Rudd, Steve Carell",
+    "plot": "In 1970s San Diego, journalism was a well respected profession and people actually cared about what they saw on TV. And the top rated anchor man in the city is Ron Burgundy. He enjoys his run at the top, and has for the last five years. And his news team is equally as good as he is. Professional jock and former professional baseball player Champ Kind handles the sports, the curiously dim witted Brick Tamland - who's a few channels short of a cable subscription - handles the weather, and ladies' man Brian Fantana - whose collection of fine scents would be in the Guinness Book Of Records - handles the on-field reporting. But now all that is about to change forever. The TV station Burgundy works for, Channel 4, has embraced diversity and has hired a beautiful new female anchor named Veronica Corningstone. While Ron Burgundy and the rest of the Channel 4 news team enjoys fighting with competitors, drinking, and flirting with the ladies, Veronica quietly climbs her way to the top. And Veronica's success drives Ron Burgundy crazy. So much that Veronica's meddling causes Ron to get demoted and ultimately lose his job with Channel 6. Now left with nothing, Ron must find a way to get back to the top - and that involves a story about a rare Chinese panda giving birth on US soil. Will Ron be the one to report the story on a national level?",
+    "languages": "English, French, Spanish",
+    "country": "USA",
+    "awards": "1 win & 13 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MzYwMzk5Ml5BMl5BanBnXkFtZTcwOTI4NzUyMw@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "66%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "63/100"
+      }
+    ],
+    "metascore": "63",
+    "rating": 7.2,
+    "votes": "300,046",
+    "imdbid": "tt0357413",
+    "type": "movie",
+    "dvd": "28 Dec 2004",
+    "boxoffice": "$84,136,909",
+    "production": "Dreamworks",
+    "website": "http://www.anchorman-themovie.com/",
+    "response": "True",
+    "name": "Anchorman: The Legend of Ron Burgundy",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0357413",
+    "lastImdbUpdate": "2018-12-03T08:32:09.889Z",
+    "lastUpdate": "2018-12-03T08:32:09.889Z"
   },
   {
     "dir": "A",
     "filename": "Angels & Demons (2006).mp4",
-    "title": "Angels & Demons (2006)",
+    "title": "Angels & Demons",
     "extension": "mp4",
     "size": 3418456723,
     "modified": "2012-12-01T23:01:56.000Z",
-    "accessed": "2018-11-25T06:55:11.609Z"
+    "accessed": "2018-11-25T06:55:11.609Z",
+    "filenameNoExt": "Angels & Demons (2006)",
+    "_year_data": "2009",
+    "year": 2009,
+    "rated": "PG-13",
+    "released": "2009-05-15T04:00:00.000Z",
+    "runtime": "138 min",
+    "genres": "Mystery, Thriller",
+    "director": "Ron Howard",
+    "writer": "David Koepp (screenplay), Akiva Goldsman (screenplay), Dan Brown (novel)",
+    "actors": "Tom Hanks, Ewan McGregor, Ayelet Zurer, Stellan Skarsgård",
+    "plot": "Following the murder of a physicist, Father Silvano Bentivoglio, a symbolist, Robert Langdon, and a scientist, Vittoria Vetra, are on an adventure involving a secret brotherhood, the Illuminati. Clues lead them all around the Vatican, including the four altars of science, Earth, Air, Fire and Water. An assassin, working for the Illuminati, has captured four cardinals, and murders each, painfully. Robert and Vittoria also are searching for a new very destructive weapon that could kill millions.",
+    "languages": "English, Italian, Latin, French, Swiss German, German, Chinese, Spanish, Polish",
+    "country": "USA, Italy",
+    "awards": "1 win & 5 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzNzM2MjgxMF5BMl5BanBnXkFtZTcwNTQ1MTM0Mg@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "36%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "48/100"
+      }
+    ],
+    "metascore": "48",
+    "rating": 6.7,
+    "votes": "245,514",
+    "imdbid": "tt0808151",
+    "type": "movie",
+    "dvd": "24 Nov 2009",
+    "boxoffice": "$133,375,846",
+    "production": "Sony/Columbia Pictures",
+    "website": "http://www.angelsanddemons.com/",
+    "response": "True",
+    "name": "Angels & Demons",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0808151",
+    "lastImdbUpdate": "2018-12-03T08:32:10.988Z",
+    "lastUpdate": "2018-12-03T08:32:10.988Z"
   },
   {
     "dir": "A",
     "filename": "Animal House (1978).mp4",
-    "title": "Animal House (1978)",
+    "title": "Animal House",
     "extension": "mp4",
     "size": 2525493995,
     "modified": "2012-12-09T05:03:16.000Z",
-    "accessed": "2018-11-25T06:55:04.989Z"
+    "accessed": "2018-11-25T06:55:04.989Z",
+    "filenameNoExt": "Animal House (1978)",
+    "_year_data": "1978",
+    "year": 1978,
+    "rated": "R",
+    "released": "1978-07-28T04:00:00.000Z",
+    "runtime": "109 min",
+    "genres": "Comedy",
+    "director": "John Landis",
+    "writer": "Harold Ramis, Douglas Kenney, Chris Miller",
+    "actors": "Tom Hulce, Stephen Furst, Mark Metcalf, Mary Louise Weller",
+    "plot": "Faber College has one frat house so disreputable it will take anyone. It has a second one full of white, anglo-saxon, rich young men who are so sanctimonious no one can stand them except Dean Wormer. The dean enlists the help of the second frat to get the boys of Delta House off campus. The dean's plan comes into play just before the homecoming parade to end all parades for all time.",
+    "languages": "English, Italian",
+    "country": "USA",
+    "awards": "2 wins & 1 nomination.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2M2ZDA4MTYtOGRjMi00OTg5LWI1ZTUtMjQxZTc2NWZjNDFkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "91%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "79/100"
+      }
+    ],
+    "metascore": "79",
+    "rating": 7.6,
+    "votes": "102,490",
+    "imdbid": "tt0077975",
+    "type": "movie",
+    "dvd": "24 Feb 1998",
+    "boxoffice": "N/A",
+    "production": "Universal Pictures",
+    "website": "http://www.animalhouse.com/",
+    "response": "True",
+    "name": "Animal House",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0077975",
+    "lastImdbUpdate": "2018-12-03T08:32:12.068Z",
+    "lastUpdate": "2018-12-03T08:32:12.068Z"
   },
   {
     "dir": "A",
@@ -384,7 +2166,51 @@
     "extension": "m4v",
     "size": 1072660080,
     "modified": "2011-05-01T21:06:42.000Z",
-    "accessed": "2018-11-25T06:55:18.235Z"
+    "accessed": "2018-11-25T06:55:18.235Z",
+    "filenameNoExt": "Animal Kingdom",
+    "_year_data": "2010",
+    "year": 2010,
+    "rated": "R",
+    "released": "2010-06-03T04:00:00.000Z",
+    "runtime": "113 min",
+    "genres": "Crime, Drama",
+    "director": "David Michôd",
+    "writer": "David Michôd",
+    "actors": "James Frecheville, Bryce Lindemann, Paul Smits, Jacki Weaver",
+    "plot": "Despite being no saint herself, Julia Cody has shielded her seventeen year old son, Joshua \"J\" Cody, from her Melbourne-based criminal relatives who they have not seen in years. After Julia dies in front of J's eyes from a self-inflicted heroin overdose, J, who is slightly detached from life, feels he has no choice but to contact his maternal grandmother, Janine \"Smurf\" Cody, the family matriarch, for a place to live. Smurf rules the family with a borderline incestuous love over her three sons, the quietly menacing Andrew \"Pope\" Cody, the hyperactive Craig Cody, and the barely of age Darren Cody. Pope and his best friend, Barry \"Baz\" Brown, are armed robbers, with Darren their up and coming apprentice, while Craig is a mid level drug dealer. Melbourne's Armed Robbery Squad is after specifically Pope, who is hiding out. But when the standoff between the Codys and the Armed Robbery Squad is brought up a notch, an all out war ensues, with some casualties and J caught in the middle. The only grounding in J's life is his girlfriend, Nicky Henry. With those casualties comes an investigation by Homicide Detective Senior Sergeant Nathan Leckie, who knows the Codys are involved in some of those deaths. As Leckie tries to get J on his side, J has to figure out how best to get himself out from the middle, where he trusts neither side. J also wants to figure out how to exact what he considers justice in an all around bad situation.",
+    "languages": "English",
+    "country": "Australia",
+    "awards": "Nominated for 1 Oscar. Another 38 wins & 54 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NjcwNjE4NV5BMl5BanBnXkFtZTcwNDU2NDg1Mw@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "95%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "metascore": "83",
+    "rating": 7.3,
+    "votes": "50,633",
+    "imdbid": "tt1313092",
+    "type": "movie",
+    "dvd": "18 Jan 2011",
+    "boxoffice": "$1,000,000",
+    "production": "Sony Pictures Classics",
+    "website": "http://www.sonyclassics.com/animalkingdom",
+    "response": "True",
+    "name": "Animal Kingdom",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt1313092",
+    "lastImdbUpdate": "2018-12-03T08:32:13.041Z",
+    "lastUpdate": "2018-12-03T08:32:13.041Z"
   },
   {
     "dir": "A",
@@ -393,25 +2219,157 @@
     "extension": "m4v",
     "size": 1285044513,
     "modified": "2012-03-03T22:54:46.000Z",
-    "accessed": "2018-11-25T06:55:07.827Z"
+    "accessed": "2018-11-25T06:55:07.827Z",
+    "filenameNoExt": "Annie Hall",
+    "_year_data": "1977",
+    "year": 1977,
+    "rated": "PG",
+    "released": "1977-04-20T04:00:00.000Z",
+    "runtime": "93 min",
+    "genres": "Comedy, Romance",
+    "director": "Woody Allen",
+    "writer": "Woody Allen, Marshall Brickman",
+    "actors": "Woody Allen, Diane Keaton, Tony Roberts, Carol Kane",
+    "plot": "Alvy Singer, a forty year old twice divorced, neurotic, intellectual Jewish New York stand-up comic, reflects on the demise of his latest relationship, to Annie Hall, an insecure, flighty, Midwestern WASP aspiring nightclub singer. Unlike his previous relationships, Alvy believed he may have worked out all the issues in his life through fifteen years of therapy to make this relationship with Annie last, among those issues being not wanting to date any woman that would want to date him, and thus subconsciously pushing those women away. Alvy not only reviews the many ups and many downs of their relationship, but also reviews the many facets of his makeup that led to him starting to date Annie. Those facets include growing up next to Coney Island in Brooklyn, being attracted to the opposite sex for as long as he can remember, and enduring years of Jewish guilt with his constantly arguing parents.",
+    "languages": "English, German",
+    "country": "USA",
+    "awards": "Won 4 Oscars. Another 26 wins & 8 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDg1OGQ4YzgtM2Y2NS00NjA3LWFjYTctMDRlMDI3NWE1OTUyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "92/100"
+      }
+    ],
+    "metascore": "92",
+    "rating": 8,
+    "votes": "231,558",
+    "imdbid": "tt0075686",
+    "type": "movie",
+    "dvd": "28 Apr 1998",
+    "boxoffice": "N/A",
+    "production": "United Artists",
+    "website": "N/A",
+    "response": "True",
+    "name": "Annie Hall",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0075686",
+    "lastImdbUpdate": "2018-12-03T08:32:14.031Z",
+    "lastUpdate": "2018-12-03T08:32:14.031Z"
   },
   {
     "dir": "A",
     "filename": "Annihilation (2018).mp4",
-    "title": "Annihilation (2018)",
+    "title": "Annihilation",
     "extension": "mp4",
     "size": 1992456274,
     "modified": "2018-06-03T16:10:27.672Z",
-    "accessed": "2018-11-25T06:55:03.979Z"
+    "accessed": "2018-11-25T06:55:03.979Z",
+    "filenameNoExt": "Annihilation (2018)",
+    "_year_data": "2018",
+    "year": 2018,
+    "rated": "R",
+    "released": "2018-02-23T05:00:00.000Z",
+    "runtime": "115 min",
+    "genres": "Adventure, Drama, Horror, Mystery, Sci-Fi, Thriller",
+    "director": "Alex Garland",
+    "writer": "Alex Garland (written for the screen by), Jeff VanderMeer (based on the novel by)",
+    "actors": "Natalie Portman, Benedict Wong, Sonoya Mizuno, David Gyasi",
+    "plot": "A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.",
+    "languages": "English",
+    "country": "UK, USA",
+    "awards": "N/A",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk2Mjc2NzYxNl5BMl5BanBnXkFtZTgwMTA2OTA1NDM@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "88%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "79/100"
+      }
+    ],
+    "metascore": "79",
+    "rating": 6.9,
+    "votes": "180,083",
+    "imdbid": "tt2798920",
+    "type": "movie",
+    "dvd": "29 May 2018",
+    "boxoffice": "$20,636,742",
+    "production": "Paramount Pictures",
+    "website": "https://www.facebook.com/AnnihilationMovie",
+    "response": "True",
+    "name": "Annihilation",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt2798920",
+    "lastImdbUpdate": "2018-12-03T08:32:14.985Z",
+    "lastUpdate": "2018-12-03T08:32:14.985Z"
   },
   {
     "dir": "A",
     "filename": "Anonymous (2011).mp4",
-    "title": "Anonymous (2011)",
+    "title": "Anonymous",
     "extension": "mp4",
     "size": 3062850186,
     "modified": "2012-12-26T19:13:14.000Z",
-    "accessed": "2018-11-25T06:55:07.972Z"
+    "accessed": "2018-11-25T06:55:07.972Z",
+    "filenameNoExt": "Anonymous (2011)",
+    "_year_data": "2011",
+    "year": 2011,
+    "rated": "PG-13",
+    "released": "2011-10-28T04:00:00.000Z",
+    "runtime": "130 min",
+    "genres": "Drama, Thriller",
+    "director": "Roland Emmerich",
+    "writer": "John Orloff",
+    "actors": "Rhys Ifans, Vanessa Redgrave, Sebastian Armesto, Rafe Spall",
+    "plot": "Edward De Vere, Earl of Oxford, is presented as the real author of Shakespeare's works. Edward's life is followed through flashbacks from a young child, through to the end of his life. He is portrayed as a child prodigy who writes and performs A Midsummer Night's Dream for a young Elizabeth I. A series of events sees his plays being performed by a frontman, Shakespeare.",
+    "languages": "English, French, Italian, Greek,  Ancient (to 1453)",
+    "country": "UK, Germany, USA",
+    "awards": "Nominated for 1 Oscar. Another 7 wins & 8 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxOTA5MTMxOV5BMl5BanBnXkFtZTcwNDI4MzU0NQ@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "46%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "50/100"
+      }
+    ],
+    "metascore": "50",
+    "rating": 6.9,
+    "votes": "37,305",
+    "imdbid": "tt1521197",
+    "type": "movie",
+    "dvd": "07 Feb 2012",
+    "boxoffice": "$4,463,292",
+    "production": "Sony Pictures",
+    "website": "http://www.anonymous-movie.com/",
+    "response": "True",
+    "name": "Anonymous",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt1521197",
+    "lastImdbUpdate": "2018-12-03T08:32:15.946Z",
+    "lastUpdate": "2018-12-03T08:32:15.946Z"
   },
   {
     "dir": "A",
@@ -420,16 +2378,104 @@
     "extension": "m4v",
     "size": 1291029858,
     "modified": "2011-12-03T21:00:38.000Z",
-    "accessed": "2018-11-25T06:55:08.996Z"
+    "accessed": "2018-11-25T06:55:08.996Z",
+    "filenameNoExt": "Another Earth",
+    "_year_data": "2011",
+    "year": 2011,
+    "rated": "PG-13",
+    "released": "2011-10-12T04:00:00.000Z",
+    "runtime": "92 min",
+    "genres": "Drama, Romance, Sci-Fi",
+    "director": "Mike Cahill",
+    "writer": "Mike Cahill, Brit Marling",
+    "actors": "William Mapother, Brit Marling, Matthew-Lee Erlbach, DJ Flava",
+    "plot": "SPOILER: Seventeen year-old Rhoda Williams receives an acceptance letter from MIT and she celebrates with her friends. On the same night, a planet similar and close to Earth is discovered and called Earth 2. Rhoda drives her car looking at Earth 2 and crashes with composer John Burroughs, killing his pregnant wife and his baby son. Rhoda goes to prison and four years later she is released and moves to her parents' house. She finds a job as high-school janitor, but tries to commit suicide. She survives, however, and submits an essay to a contest where the prize is a ticket to travel to Earth 2. Meanwhile the scientists discover that Earth 2 is a mirror of Earth and the synchronicity between the dwellers was interrupted when the planets were seen by each other. One day, Rhoda decides to visit John Burroughs, whose life was destroyed after the death of his family, to admit to him that she had killed his family. However she does not have the nerve to tell him the truth. So she lies and tells him he has won a free cleaning service of his home. Rhoda wins the writing contest, but meanwhile John and she have fallen in love with each other. Rhoda has to take a decision whether she goes or stays, but she wants to tell John the truth first.",
+    "languages": "English",
+    "country": "USA",
+    "awards": "7 wins & 13 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAzNTIzMjkxNjJeQTJeQWpwZ15BbWU3MDEwNDQ2OTU@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "64%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "66/100"
+      }
+    ],
+    "metascore": "66",
+    "rating": 7,
+    "votes": "83,778",
+    "imdbid": "tt1549572",
+    "type": "movie",
+    "dvd": "29 Nov 2011",
+    "boxoffice": "$957,752",
+    "production": "Fox Searchlight",
+    "website": "http://www.foxsearchlight.com/anotherearth/",
+    "response": "True",
+    "name": "Another Earth",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt1549572",
+    "lastImdbUpdate": "2018-12-03T08:32:16.897Z",
+    "lastUpdate": "2018-12-03T08:32:16.897Z"
   },
   {
     "dir": "A",
     "filename": "Ant Man (2015).mp4",
-    "title": "Ant Man (2015)",
+    "title": "Ant-Man",
     "extension": "mp4",
     "size": 964363223,
     "modified": "2015-11-06T21:28:30.963Z",
-    "accessed": "2018-11-25T06:55:11.140Z"
+    "accessed": "2018-11-25T06:55:11.140Z",
+    "filenameNoExt": "Ant Man (2015)",
+    "_year_data": "2015",
+    "year": 2015,
+    "rated": "PG-13",
+    "released": "2015-07-17T04:00:00.000Z",
+    "runtime": "117 min",
+    "genres": "Action, Adventure, Comedy, Crime, Sci-Fi",
+    "director": "Peyton Reed",
+    "writer": "Edgar Wright (screenplay by), Joe Cornish (screenplay by), Adam McKay (screenplay by), Paul Rudd (screenplay by), Edgar Wright (story by), Joe Cornish (story by), Stan Lee (based on the Marvel comics by), Larry Lieber (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by)",
+    "actors": "Paul Rudd, Michael Douglas, Evangeline Lilly, Corey Stoll",
+    "plot": "Armed with the astonishing ability to shrink in scale but increase in strength, con-man Scott Lang must embrace his inner-hero and help his mentor, Dr. Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.",
+    "languages": "English",
+    "country": "USA",
+    "awards": "Nominated for 1 BAFTA Film Award. Another 3 wins & 32 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "82%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "64/100"
+      }
+    ],
+    "metascore": "64",
+    "rating": 7.3,
+    "votes": "458,313",
+    "imdbid": "tt0478970",
+    "type": "movie",
+    "dvd": "08 Dec 2015",
+    "boxoffice": "$138,002,223",
+    "production": "Disney/Marvel",
+    "website": "http://www.facebook.com/antman",
+    "response": "True",
+    "name": "Ant-Man",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0478970",
+    "lastImdbUpdate": "2018-12-03T08:32:17.849Z",
+    "lastUpdate": "2018-12-03T08:32:17.849Z"
   },
   {
     "dir": "A",
@@ -438,7 +2484,51 @@
     "extension": "m4v",
     "size": 1721873510,
     "modified": "2011-03-31T12:05:54.000Z",
-    "accessed": "2018-11-25T06:55:10.890Z"
+    "accessed": "2018-11-25T06:55:10.890Z",
+    "filenameNoExt": "Apocalypse Now",
+    "_year_data": "1979",
+    "year": 1979,
+    "rated": "R",
+    "released": "1979-08-15T04:00:00.000Z",
+    "runtime": "147 min",
+    "genres": "Drama, War",
+    "director": "Francis Ford Coppola",
+    "writer": "John Milius, Francis Ford Coppola, Michael Herr (narration)",
+    "actors": "Marlon Brando, Martin Sheen, Robert Duvall, Frederic Forrest",
+    "plot": "It is the height of the war in Vietnam, and U.S. Army Captain Willard is sent by Colonel Lucas and a General to carry out a mission that, officially, 'does not exist - nor will it ever exist'. The mission: To seek out a mysterious Green Beret Colonel, Walter Kurtz, whose army has crossed the border into Cambodia and is conducting hit-and-run missions against the Viet Cong and NVA. The army believes Kurtz has gone completely insane and Willard's job is to eliminate him! Willard, sent up the Nung River on a U.S. Navy patrol boat, discovers that his target is one of the most decorated officers in the U.S. Army. His crew meets up with surfer-type Lt-Colonel Kilgore, head of a U.S Army helicopter cavalry group which eliminates a Viet Cong outpost to provide an entry point into the Nung River. After some hair-raising encounters, in which some of his crew are killed, Willard, Lance and Chef reach Colonel Kurtz's outpost, beyond the Do Lung Bridge. Now, after becoming prisoners of Kurtz, will Willard & the others be able to fulfill their mission?",
+    "languages": "English, French, Vietnamese",
+    "country": "USA",
+    "awards": "Won 2 Oscars. Another 18 wins & 31 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTNkZmU0ZWQtZjQzMy00YTNmLWFmN2MtZGNkMmU1OThmMGYwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "94/100"
+      }
+    ],
+    "metascore": "94",
+    "rating": 8.5,
+    "votes": "528,598",
+    "imdbid": "tt0078788",
+    "type": "movie",
+    "dvd": "20 Nov 2001",
+    "boxoffice": "N/A",
+    "production": "United Artists",
+    "website": "http://www.zoetrope.com/zoe_films.cgi?page=films&amp;action=show_one&amp;film_id=13",
+    "response": "True",
+    "name": "Apocalypse Now",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0078788",
+    "lastImdbUpdate": "2018-12-03T08:32:18.832Z",
+    "lastUpdate": "2018-12-03T08:32:18.832Z"
   },
   {
     "dir": "A",
@@ -447,7 +2537,10 @@
     "extension": "mp4",
     "size": 2456208844,
     "modified": "2012-12-24T20:05:46.000Z",
-    "accessed": "2018-11-25T06:55:08.804Z"
+    "accessed": "2018-11-25T06:55:08.804Z",
+    "filenameNoExt": "Arbitage (2012)",
+    "imdbError": true,
+    "lastImdbUpdate": "2018-12-03T08:49:09.458Z"
   },
   {
     "dir": "A",
@@ -456,7 +2549,47 @@
     "extension": "m4v",
     "size": 1721271310,
     "modified": "2011-07-16T17:48:36.000Z",
-    "accessed": "2018-11-25T06:55:10.039Z"
+    "accessed": "2018-11-25T06:55:10.039Z",
+    "filenameNoExt": "Arizona Dream",
+    "_year_data": "1993",
+    "year": 1993,
+    "rated": "R",
+    "released": "1994-09-09T04:00:00.000Z",
+    "runtime": "142 min",
+    "genres": "Comedy, Drama, Fantasy, Romance",
+    "director": "Emir Kusturica",
+    "writer": "David Atkins (story), Emir Kusturica (story), David Atkins (screenplay)",
+    "actors": "Johnny Depp, Jerry Lewis, Faye Dunaway, Lili Taylor",
+    "plot": "An Innuit hunter races his sled home with a fresh-caught halibut. This fish pervades the entire film, in real and imaginary form. Meanwhile, Axel tags fish in New York as a naturalist's gofer. He's happy there, but a messenger arrives to bring him to Arizona for his uncle's wedding. It's a ruse to get Axel into the family business. In Arizona, Axel meets two odd women: vivacious, needy, and plagued by neuroses and familial discord. He gets romantically involved with one, while the other, rich but depressed, plays accordion tunes to a gaggle of pet turtles.",
+    "languages": "English, Spanish, Inuktitut",
+    "country": "USA, France",
+    "awards": "3 wins & 1 nomination.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA2NjkxMzUzM15BMl5BanBnXkFtZTcwNzc0MzMzMQ@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "87%"
+      }
+    ],
+    "metascore": "N/A",
+    "rating": 7.4,
+    "votes": "37,857",
+    "imdbid": "tt0106307",
+    "type": "movie",
+    "dvd": "21 Mar 1995",
+    "boxoffice": "N/A",
+    "production": "WARNER BROTHERS PICTURES",
+    "website": "N/A",
+    "response": "True",
+    "name": "Arizona Dream",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0106307",
+    "lastImdbUpdate": "2018-12-03T08:39:41.432Z",
+    "lastUpdate": "2018-12-03T08:39:41.432Z"
   },
   {
     "dir": "A",
@@ -465,7 +2598,51 @@
     "extension": "m4v",
     "size": 1184162702,
     "modified": "2011-04-24T23:56:40.000Z",
-    "accessed": "2018-11-25T06:55:09.694Z"
+    "accessed": "2018-11-25T06:55:09.694Z",
+    "filenameNoExt": "Arlington Road",
+    "_year_data": "1999",
+    "year": 1999,
+    "rated": "R",
+    "released": "1999-07-09T04:00:00.000Z",
+    "runtime": "117 min",
+    "genres": "Crime, Drama, Thriller",
+    "director": "Mark Pellington",
+    "writer": "Ehren Kruger",
+    "actors": "Jeff Bridges, Tim Robbins, Joan Cusack, Hope Davis",
+    "plot": "In suburban Reston, Virginia, George Washington University American History professor Michael Faraday is still mourning the death of his wife, FBI agent Leah Faraday, after three years. His inside knowledge of the agency colors what he teaches in his classes. Although on good terms with Leah's ex-partner, Whit Carver, and the agency in general, Michael wants the agency at least to acknowledge their responsibility in her death in the line of duty. Michael is moving on with his personal life, he being in a serious relationship with his former teaching assistant Brooke Wolfe. Although he likes Brooke, Michael and Leah's nine year old son, Grant Faraday, may not yet be quite ready for Brooke to be a permanent part of their lives. It is only in helping adolescent Brady Lang who he sees in medical distress that Michael meets his new neighbors, Oliver and Cheryl Lang, Brady's parents. In the process, Michael and Brooke becomes friends with the Langs, as Grant and Brady become friends. However, the more time that he spends with them and catches discrepancies in their stories, Michael becomes suspicious that the Langs may not be everything they appear on the surface. As such, Michael, against Brooke's concerns of invasion of the Lang's privacy, begins his own investigation of Oliver in particular. What Michael discovers has serious national security implications, as well as possible life threatening dangers to him, Brooke and Grant.",
+    "languages": "English",
+    "country": "USA",
+    "awards": "5 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzg4NTYwMWItZmQzMC00MTM2LWFjN2ItOGM2YWNlMDRjMDQ5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "62%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "65/100"
+      }
+    ],
+    "metascore": "65",
+    "rating": 7.2,
+    "votes": "75,452",
+    "imdbid": "tt0137363",
+    "type": "movie",
+    "dvd": "11 Dec 2001",
+    "boxoffice": "N/A",
+    "production": "Sony Pictures Home Entertainment",
+    "website": "http://www.arlingtonrd.com",
+    "response": "True",
+    "name": "Arlington Road",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0137363",
+    "lastImdbUpdate": "2018-12-03T08:39:41.779Z",
+    "lastUpdate": "2018-12-03T08:39:41.779Z"
   },
   {
     "dir": "A",
@@ -474,25 +2651,116 @@
     "extension": "m4v",
     "size": 1504901498,
     "modified": "2011-04-02T08:29:26.000Z",
-    "accessed": "2018-11-25T06:55:10.295Z"
+    "accessed": "2018-11-25T06:55:10.295Z",
+    "filenameNoExt": "Artificial Intelligence AI",
+    "imdbError": true,
+    "lastImdbUpdate": "2018-12-03T08:49:09.804Z"
   },
   {
     "dir": "A",
     "filename": "The Artist (2011).mp4",
-    "title": "The Artist (2011)",
+    "title": "The Artist",
     "extension": "mp4",
     "size": 1558194162,
     "modified": "2013-06-22T20:25:40.000Z",
-    "accessed": "2018-11-25T06:55:10.471Z"
+    "accessed": "2018-11-25T06:55:10.471Z",
+    "filenameNoExt": "The Artist (2011)",
+    "_year_data": "2011",
+    "year": 2011,
+    "rated": "PG-13",
+    "released": "2012-01-20T05:00:00.000Z",
+    "runtime": "100 min",
+    "genres": "Comedy, Drama, Romance",
+    "director": "Michel Hazanavicius",
+    "writer": "Michel Hazanavicius",
+    "actors": "Jean Dujardin, Bérénice Bejo, John Goodman, James Cromwell",
+    "plot": "Outside a movie premiere, enthusiastic fan Peppy Miller literally bumps into the swashbuckling hero of the silent film, George Valentin. The star reacts graciously and Peppy plants a kiss on his cheek as they are surrounded by photographers. The headlines demand: \"Who's That Girl?\" and Peppy is inspired to audition for a dancing bit-part at the studio. However as Peppy slowly rises through the industry, the introduction of talking-pictures turns Valentin's world upside-down.",
+    "languages": "English, French",
+    "country": "France, USA, Belgium",
+    "awards": "Won 5 Oscars. Another 145 wins & 188 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDUyZWU5N2UtOWFlMy00MTI0LTk0ZDYtMzFhNjljODBhZDA5XkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "95%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "89/100"
+      }
+    ],
+    "metascore": "89",
+    "rating": 7.9,
+    "votes": "212,700",
+    "imdbid": "tt1655442",
+    "type": "movie",
+    "dvd": "26 Jun 2012",
+    "boxoffice": "$44,667,095",
+    "production": "The Weinstein Company",
+    "website": "http://theartistmovie.net",
+    "response": "True",
+    "name": "The Artist",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt1655442",
+    "lastImdbUpdate": "2018-12-03T08:39:42.473Z",
+    "lastUpdate": "2018-12-03T08:39:42.473Z"
   },
   {
     "dir": "A",
     "filename": "Atlas Shrugged (2012).mp4",
-    "title": "Atlas Shrugged (2012)",
+    "title": "Atlas Shrugged: Part I",
     "extension": "mp4",
     "size": 2217724495,
     "modified": "2012-11-28T10:05:50.000Z",
-    "accessed": "2018-11-25T06:55:05.664Z"
+    "accessed": "2018-11-25T06:55:05.664Z",
+    "filenameNoExt": "Atlas Shrugged (2012)",
+    "_year_data": "2011",
+    "year": 2011,
+    "rated": "PG-13",
+    "released": "2011-04-15T04:00:00.000Z",
+    "runtime": "97 min",
+    "genres": "Drama, Mystery, Sci-Fi",
+    "director": "Paul Johansson",
+    "writer": "Brian Patrick O'Toole (screenplay by), John Aglialoro (screenplay by), Ayn Rand (novel)",
+    "actors": "Taylor Schilling, Grant Bowler, Matthew Marsden, Edi Gathegi",
+    "plot": "It was great to be alive, once, but the world was perishing. Factories were shutting down, transportation was grinding to a halt, granaries were empty--and key people who had once kept it running were disappearing all over the country. As the lights winked out and the cities went cold, nothing was left to anyone but misery. No one knew how to stop it, no one understood why it was happening - except one woman, the operating executive of a once mighty transcontinental railroad, who suspects the answer may rest with a remarkable invention and the man who created it - a man who once said he would stop the motor of the world. Everything now depends on finding him and discovering the answer to the question on the lips of everyone as they whisper it in fear: Who *is* John Galt?",
+    "languages": "English",
+    "country": "USA",
+    "awards": "1 win.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ1NDg3NjcxNl5BMl5BanBnXkFtZTgwODQ1MjU5OTE@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "12%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "28/100"
+      }
+    ],
+    "metascore": "28",
+    "rating": 5.7,
+    "votes": "12,204",
+    "imdbid": "tt0480239",
+    "type": "movie",
+    "dvd": "08 Nov 2011",
+    "boxoffice": "$4,563,873",
+    "production": "Rocky Mountain Pictures",
+    "website": "http://www.atlasshruggedpart1.com/",
+    "response": "True",
+    "name": "Atlas Shrugged: Part I",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0480239",
+    "lastImdbUpdate": "2018-12-03T08:39:42.819Z",
+    "lastUpdate": "2018-12-03T08:39:42.819Z"
   },
   {
     "dir": "A",
@@ -501,7 +2769,51 @@
     "extension": "m4v",
     "size": 1291323417,
     "modified": "2011-11-08T19:52:40.000Z",
-    "accessed": "2018-11-25T06:55:09.960Z"
+    "accessed": "2018-11-25T06:55:09.960Z",
+    "filenameNoExt": "Attack the Block",
+    "_year_data": "2011",
+    "year": 2011,
+    "rated": "R",
+    "released": "2011-05-13T04:00:00.000Z",
+    "runtime": "88 min",
+    "genres": "Action, Comedy, Sci-Fi, Thriller",
+    "director": "Joe Cornish",
+    "writer": "Joe Cornish",
+    "actors": "Jodie Whittaker, John Boyega, Alex Esmail, Leeon Jones",
+    "plot": "Attack the Block follows an unlucky young woman and and a gang of tough inner-city kids who make an unlikely alliance to try to defend their turf against an invasion of savage alien creatures, turning a South London apartment complex into a war-zone.",
+    "languages": "English",
+    "country": "UK, France",
+    "awards": "Nominated for 1 BAFTA Film Award. Another 20 wins & 36 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAzNjc1MjgzOF5BMl5BanBnXkFtZTcwMzE3Njk5NQ@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "90%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "75/100"
+      }
+    ],
+    "metascore": "75",
+    "rating": 6.6,
+    "votes": "91,456",
+    "imdbid": "tt1478964",
+    "type": "movie",
+    "dvd": "25 Oct 2011",
+    "boxoffice": "$800,000",
+    "production": "Screen Gems",
+    "website": "http://attacktheblock.com/",
+    "response": "True",
+    "name": "Attack the Block",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt1478964",
+    "lastImdbUpdate": "2018-12-03T08:39:43.163Z",
+    "lastUpdate": "2018-12-03T08:39:43.163Z"
   },
   {
     "dir": "A",
@@ -510,7 +2822,10 @@
     "extension": "mp4",
     "size": 1695864627,
     "modified": "2012-11-12T11:58:12.000Z",
-    "accessed": "2018-11-25T06:55:12.811Z"
+    "accessed": "2018-11-25T06:55:12.811Z",
+    "filenameNoExt": "Austin Powers 1 - International Man of Mystery (1997)",
+    "imdbError": true,
+    "lastImdbUpdate": "2018-12-03T08:49:10.151Z"
   },
   {
     "dir": "A",
@@ -519,7 +2834,10 @@
     "extension": "mp4",
     "size": 1805100738,
     "modified": "2012-11-12T12:01:12.000Z",
-    "accessed": "2018-11-25T06:55:09.441Z"
+    "accessed": "2018-11-25T06:55:09.441Z",
+    "filenameNoExt": "Austin Powers 2 - The Spy Who Shagged Me (1999)",
+    "imdbError": true,
+    "lastImdbUpdate": "2018-12-03T08:49:10.502Z"
   },
   {
     "dir": "A",
@@ -528,7 +2846,10 @@
     "extension": "mp4",
     "size": 1788113156,
     "modified": "2012-11-12T12:03:10.000Z",
-    "accessed": "2018-11-25T06:55:12.230Z"
+    "accessed": "2018-11-25T06:55:12.230Z",
+    "filenameNoExt": "Austin Powers 3 - Goldmember (2002)",
+    "imdbError": true,
+    "lastImdbUpdate": "2018-12-03T08:49:10.869Z"
   },
   {
     "dir": "A",
@@ -537,16 +2858,104 @@
     "extension": "mp4",
     "size": 3769228845,
     "modified": "2012-11-24T01:14:10.000Z",
-    "accessed": "2018-11-25T06:55:09.424Z"
+    "accessed": "2018-11-25T06:55:09.424Z",
+    "filenameNoExt": "Avatar",
+    "_year_data": "2009",
+    "year": 2009,
+    "rated": "PG-13",
+    "released": "2009-12-18T05:00:00.000Z",
+    "runtime": "162 min",
+    "genres": "Action, Adventure, Fantasy, Sci-Fi",
+    "director": "James Cameron",
+    "writer": "James Cameron",
+    "actors": "Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang",
+    "plot": "When his brother is killed in a robbery, paraplegic Marine Jake Sully decides to take his place in a mission on the distant world of Pandora. There he learns of greedy corporate figurehead Parker Selfridge's intentions of driving off the native humanoid \"Na'vi\" in order to mine for the precious material scattered throughout their rich woodland. In exchange for the spinal surgery that will fix his legs, Jake gathers intel for the cooperating military unit spearheaded by gung-ho Colonel Quaritch, while simultaneously attempting to infiltrate the Na'vi people with the use of an \"avatar\" identity. While Jake begins to bond with the native tribe and quickly falls in love with the beautiful alien Neytiri, the restless Colonel moves forward with his ruthless extermination tactics, forcing the soldier to take a stand - and fight back in an epic battle for the fate of Pandora.",
+    "languages": "English, Spanish",
+    "country": "UK, USA",
+    "awards": "Won 3 Oscars. Another 85 wins & 128 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "83%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "metascore": "83",
+    "rating": 7.8,
+    "votes": "1,009,009",
+    "imdbid": "tt0499549",
+    "type": "movie",
+    "dvd": "22 Apr 2010",
+    "boxoffice": "$749,700,000",
+    "production": "20th Century Fox",
+    "website": "http://www.avatarmovie.com/",
+    "response": "True",
+    "name": "Avatar",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0499549",
+    "lastImdbUpdate": "2018-12-03T08:49:11.233Z",
+    "lastUpdate": "2018-12-03T08:49:11.233Z"
   },
   {
     "dir": "A",
     "filename": "The Avengers (2012).mp4",
-    "title": "The Avengers (2012)",
+    "title": "The Avengers",
     "extension": "mp4",
     "size": 3301797430,
     "modified": "2012-11-12T09:49:32.000Z",
-    "accessed": "2018-11-25T06:55:09.921Z"
+    "accessed": "2018-11-25T06:55:09.921Z",
+    "filenameNoExt": "The Avengers (2012)",
+    "_year_data": "2012",
+    "year": 2012,
+    "rated": "PG-13",
+    "released": "2012-05-04T04:00:00.000Z",
+    "runtime": "143 min",
+    "genres": "Action, Adventure, Sci-Fi",
+    "director": "Joss Whedon",
+    "writer": "Joss Whedon (screenplay), Zak Penn (story), Joss Whedon (story)",
+    "actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+    "plot": "Nick Fury is the director of S.H.I.E.L.D., an international peace-keeping agency. The agency is a who's who of Marvel Super Heroes, with Iron Man, The Incredible Hulk, Thor, Captain America, Hawkeye and Black Widow. When global security is threatened by Loki and his cohorts, Nick Fury and his team will need all their powers to save the world from disaster.",
+    "languages": "English, Russian, Hindi",
+    "country": "USA",
+    "awards": "Nominated for 1 Oscar. Another 38 wins & 79 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "69/100"
+      }
+    ],
+    "metascore": "69",
+    "rating": 8.1,
+    "votes": "1,132,357",
+    "imdbid": "tt0848228",
+    "type": "movie",
+    "dvd": "25 Sep 2012",
+    "boxoffice": "$623,279,547",
+    "production": "Walt Disney Pictures",
+    "website": "http://marvel.com/avengers_movie",
+    "response": "True",
+    "name": "The Avengers",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0848228",
+    "lastImdbUpdate": "2018-12-03T08:49:11.588Z",
+    "lastUpdate": "2018-12-03T08:49:11.588Z"
   },
   {
     "dir": "A",
@@ -555,7 +2964,51 @@
     "extension": "m4v",
     "size": 2149803436,
     "modified": "2012-02-27T22:34:22.000Z",
-    "accessed": "2018-11-25T06:55:13.728Z"
+    "accessed": "2018-11-25T06:55:13.728Z",
+    "filenameNoExt": "The Aviator",
+    "_year_data": "2004",
+    "year": 2004,
+    "rated": "PG-13",
+    "released": "2004-12-25T05:00:00.000Z",
+    "runtime": "170 min",
+    "genres": "Biography, Drama, History",
+    "director": "Martin Scorsese",
+    "writer": "John Logan",
+    "actors": "Leonardo DiCaprio, Cate Blanchett, Kate Beckinsale, John C. Reilly",
+    "plot": "Biopic of billionaire Howard Hughes, starting with his early filmmaking years as owner of RKO studios but mostly focusing on his role in designing and promoting new aircraft. Hughes was a risk-taker spending several fortunes on designing experimental aircraft and eventually founding TWA as a rival to Pan AM airlines owned by his great rival Juan Trippe. When Trippe's politico Senator Ralph Owen Brewster accuses Hughes of being a war profiteer, it's Hughes who gains the upper hand. Hughes also had many women in his life including a long relationship with actress Katharine Hepburn. From an early age however, Hughes was also germophobic and would have severe bouts of mental illness.",
+    "languages": "English",
+    "country": "Germany, USA",
+    "awards": "Won 5 Oscars. Another 81 wins & 130 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTYzMjA2M2EtYmY1OC00ZWMxLThlY2YtZGI3MTQzOWM4YjE3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "87%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "77/100"
+      }
+    ],
+    "metascore": "77",
+    "rating": 7.5,
+    "votes": "299,333",
+    "imdbid": "tt0338751",
+    "type": "movie",
+    "dvd": "24 May 2005",
+    "boxoffice": "$102,563,679",
+    "production": "Miramax",
+    "website": "http://www.miramax.com/movie/the-aviator",
+    "response": "True",
+    "name": "The Aviator",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0338751",
+    "lastImdbUpdate": "2018-12-03T08:49:11.938Z",
+    "lastUpdate": "2018-12-03T08:49:11.938Z"
   },
   {
     "dir": "A",
@@ -564,7 +3017,10 @@
     "extension": "mkv",
     "size": 625427440,
     "modified": "2016-09-07T21:03:14.764Z",
-    "accessed": "2018-11-25T06:55:08.601Z"
+    "accessed": "2018-11-25T06:55:08.601Z",
+    "filenameNoExt": "Avril Et Le Monde Truqué (2015)",
+    "imdbError": true,
+    "lastImdbUpdate": "2018-12-03T08:49:12.281Z"
   },
   {
     "dir": "A",
@@ -573,7 +3029,51 @@
     "extension": "m4v",
     "size": 1297114545,
     "modified": "2011-04-03T03:27:12.000Z",
-    "accessed": "2018-11-25T06:55:11.176Z"
+    "accessed": "2018-11-25T06:55:11.176Z",
+    "filenameNoExt": "Awakenings",
+    "_year_data": "1990",
+    "year": 1990,
+    "rated": "PG-13",
+    "released": "1991-01-11T05:00:00.000Z",
+    "runtime": "121 min",
+    "genres": "Biography, Drama",
+    "director": "Penny Marshall",
+    "writer": "Oliver Sacks (book), Steven Zaillian (screenplay)",
+    "actors": "Robert De Niro, Robin Williams, Julie Kavner, Ruth Nelson",
+    "plot": "1969. Dr. Malcolm Sayer is hired as a clinical physician at a psychiatric hospital in the Bronx, despite he only having a research background. The job is not ideal on his side as he has difficulties relating to people which is the reason he has focused on research projects not involving human subjects, while the hospital hires him somewhat out of desperation in not finding anyone else with the qualifications who wants the job. Most of his patients are in a semi-catatonic state and are housed in what some of the orderlies coin the \"garden\" ward, where all they can do for the patients is water and feed them. He notices that some of the patients, despite their generally catatonic state, respond in unusual ways to certain stimuli. In doing some research, he also finds that some common bonds between these patients are that they suffered from encephalitis in the 1920s or 1930s, and that their physical states are like they have Parkinson's disease frozen in time. As such, he is able to convince, albeit reluctantly, his skeptical boss, Dr. Kaufman, to administer an expensive experimental drug therapy on only one patient with family consent. That patient is forty-one year old Leonard Lowe, who has been in his current state since he was eleven years old, and who has been supported by his loving mother through all these years. As the drug therapy \"awakens\" Leonard, there are several issues that come into play. Malcolm has to try and convince Kaufman and the hospital administration to extend the therapy to the other patients. Despite not knowing the long term effects, Leonard, who was aware of his surroundings through his catatonic state, may have mixed emotions about his situation, wanting both to be treated as human being and an experiment guinea pig to ensure that what is happening benefits him and others in the long run. Mrs. Lowe may be unprepared for the new Leonard, she expecting who she remembers as a sweet eleven year old boy. Through all these issues, what may be the most illuminating issue for Malcolm is the need to stimulate the human spirit, including his own in dealing with people around him.",
+    "languages": "English",
+    "country": "USA",
+    "awards": "Nominated for 3 Oscars. Another 6 wins & 8 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI5NjEzMDYyMl5BMl5BanBnXkFtZTgwNjgwNTg4NjE@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "88%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "74/100"
+      }
+    ],
+    "metascore": "74",
+    "rating": 7.8,
+    "votes": "108,252",
+    "imdbid": "tt0099077",
+    "type": "movie",
+    "dvd": "28 Aug 2001",
+    "boxoffice": "N/A",
+    "production": "Columbia Pictures",
+    "website": "N/A",
+    "response": "True",
+    "name": "Awakenings",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0099077",
+    "lastImdbUpdate": "2018-12-03T08:53:29.432Z",
+    "lastUpdate": "2018-12-03T08:53:29.432Z"
   },
   {
     "dir": "A",
@@ -582,7 +3082,51 @@
     "extension": "m4v",
     "size": 1075396785,
     "modified": "2011-04-03T10:15:04.000Z",
-    "accessed": "2018-11-25T06:55:13.316Z"
+    "accessed": "2018-11-25T06:55:13.316Z",
+    "filenameNoExt": "Away We Go",
+    "_year_data": "2009",
+    "year": 2009,
+    "rated": "R",
+    "released": "2009-06-26T04:00:00.000Z",
+    "runtime": "98 min",
+    "genres": "Comedy, Drama, Romance",
+    "director": "Sam Mendes",
+    "writer": "Dave Eggers, Vendela Vida",
+    "actors": "John Krasinski, Maya Rudolph, Carmen Ejogo, Catherine O'Hara",
+    "plot": "Burt Farlander and Verona De Tessant are a couple steeped in eccentricity and irregularity but are very much in love. So when they find out that Verona is pregnant they seem to be taking it in their stride. Verona is enjoying pregnancy, Burt is already practicing skill that he believes a good father should have, and they living in the same state as Burt's parents, Jerry and Gloria, so that their prospective daughter can have grandparents. However, things are shaken up when Burt and Verona go to dinner at Jerry and Gloria's house, as Burt's parents reveal a surprising piece of news. They have decided to move to Antwerp in Belguim a month before the baby is due, scuppering Burt and Verona's plans of having their children's grandparents around. Because Verona lost her parents when she was relatively young, she finds this news very hard to take, but the resilient couple quickly find a way to turn it in to a positive. It becomes obvious that this is what the pair needed, as they decide to embark on a search for the right place for them to raise their daughter. They go to every place they can think of, meeting family and friends along the way, with laughter and sadness, this is a road trip the couple will never forget.",
+    "languages": "English",
+    "country": "USA, UK",
+    "awards": "3 wins & 10 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYxNzE3NjAwMl5BMl5BanBnXkFtZTcwODkxOTI0Mg@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "67%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "58/100"
+      }
+    ],
+    "metascore": "58",
+    "rating": 7.1,
+    "votes": "49,001",
+    "imdbid": "tt1176740",
+    "type": "movie",
+    "dvd": "29 Sep 2009",
+    "boxoffice": "$9,400,000",
+    "production": "Focus Features",
+    "website": "http://filminfocus.com/film/away_we_go",
+    "response": "True",
+    "name": "Away We Go",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt1176740",
+    "lastImdbUpdate": "2018-12-03T08:53:29.790Z",
+    "lastUpdate": "2018-12-03T08:53:29.790Z"
   },
   {
     "dir": "B",
@@ -591,7 +3135,10 @@
     "extension": "m4v",
     "size": 1075294782,
     "modified": "2010-12-29T21:45:54.000Z",
-    "accessed": "2018-11-25T04:10:36.181Z"
+    "accessed": "2018-11-25T04:10:36.181Z",
+    "filenameNoExt": "Back to the Future Part I",
+    "imdbError": "Movie not found!: Back to the Future Part I",
+    "lastImdbUpdate": "2018-12-03T08:53:30.145Z"
   },
   {
     "dir": "B",
@@ -600,7 +3147,51 @@
     "extension": "m4v",
     "size": 1074482357,
     "modified": "2010-12-28T15:04:52.000Z",
-    "accessed": "2018-11-25T04:10:56.282Z"
+    "accessed": "2018-11-25T04:10:56.282Z",
+    "filenameNoExt": "Back to the Future Part II",
+    "_year_data": "1989",
+    "year": 1989,
+    "rated": "PG",
+    "released": "1989-11-22T05:00:00.000Z",
+    "runtime": "108 min",
+    "genres": "Adventure, Comedy, Sci-Fi",
+    "director": "Robert Zemeckis",
+    "writer": "Robert Zemeckis (characters), Bob Gale (characters), Robert Zemeckis (story), Bob Gale (story), Bob Gale (screenplay)",
+    "actors": "Michael J. Fox, Christopher Lloyd, Lea Thompson, Thomas F. Wilson",
+    "plot": "Marty McFly has only just gotten back from the past, when he is once again picked up by Dr. Emmett Brown and sent through time to the future. Marty's job in the future is to pose as his own son to prevent him from being thrown in prison. Unfortunately, things get worse when the future changes the present.",
+    "languages": "English",
+    "country": "USA",
+    "awards": "Nominated for 1 Oscar. Another 9 wins & 8 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTMxMGM5MjItNDJhNy00MWI2LWJlZWMtOWFhMjI5ZTQwMWM3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "64%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "57/100"
+      }
+    ],
+    "metascore": "57",
+    "rating": 7.8,
+    "votes": "406,041",
+    "imdbid": "tt0096874",
+    "type": "movie",
+    "dvd": "17 Dec 2002",
+    "boxoffice": "N/A",
+    "production": "Universal Pictures",
+    "website": "N/A",
+    "response": "True",
+    "name": "Back to the Future Part II",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0096874",
+    "lastImdbUpdate": "2018-12-03T08:53:30.489Z",
+    "lastUpdate": "2018-12-03T08:53:30.489Z"
   },
   {
     "dir": "B",
@@ -609,7 +3200,51 @@
     "extension": "m4v",
     "size": 1075724361,
     "modified": "2010-12-28T14:22:58.000Z",
-    "accessed": "2018-11-25T04:10:58.932Z"
+    "accessed": "2018-11-25T04:10:58.932Z",
+    "filenameNoExt": "Back to the Future Part III",
+    "_year_data": "1990",
+    "year": 1990,
+    "rated": "PG",
+    "released": "1990-05-25T04:00:00.000Z",
+    "runtime": "118 min",
+    "genres": "Adventure, Comedy, Sci-Fi, Western",
+    "director": "Robert Zemeckis",
+    "writer": "Robert Zemeckis (characters), Bob Gale (characters), Robert Zemeckis (story), Bob Gale (story), Bob Gale (screenplay)",
+    "actors": "Michael J. Fox, Christopher Lloyd, Mary Steenburgen, Thomas F. Wilson",
+    "plot": "Stranded in 1955, Marty McFly receives written word from his friend, Doctor Emmett Brown, as to where can be found the DeLorean time machine. However, an unfortunate discovery prompts Marty to go to his friend's aid. Using the time machine, Marty travels to the old west where his friend has run afoul of a gang of thugs and has fallen in love with a local schoolteacher. Using the technology from the time, Marty and Emmett devise one last chance to send the two of them back to the future.",
+    "languages": "English",
+    "country": "USA",
+    "awards": "5 wins & 11 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjhlMGYxNmMtOWFmMi00Y2M2LWE5NWYtZTdlMDRlMGEzMDA3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "74%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "55/100"
+      }
+    ],
+    "metascore": "55",
+    "rating": 7.4,
+    "votes": "343,361",
+    "imdbid": "tt0099088",
+    "type": "movie",
+    "dvd": "17 Dec 2002",
+    "boxoffice": "N/A",
+    "production": "MCA Universal Home Video",
+    "website": "N/A",
+    "response": "True",
+    "name": "Back to the Future Part III",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0099088",
+    "lastImdbUpdate": "2018-12-03T08:53:30.851Z",
+    "lastUpdate": "2018-12-03T08:53:30.851Z"
   },
   {
     "dir": "B",
@@ -618,7 +3253,51 @@
     "extension": "m4v",
     "size": 1290174363,
     "modified": "2011-11-18T23:49:22.000Z",
-    "accessed": "2018-11-25T04:10:55.905Z"
+    "accessed": "2018-11-25T04:10:55.905Z",
+    "filenameNoExt": "Badlands",
+    "_year_data": "1973",
+    "year": 1973,
+    "rated": "PG",
+    "released": "1974-01-05T05:00:00.000Z",
+    "runtime": "94 min",
+    "genres": "Crime, Drama",
+    "director": "Terrence Malick",
+    "writer": "Terrence Malick",
+    "actors": "Martin Sheen, Sissy Spacek, Warren Oates, Ramon Bieri",
+    "plot": "It's the late 1950s. Mid-twenty-something Kit is a restless and unfocused young man with a James Dean vibe and swagger which he has heard mentioned about him more than once. Fifteen year old Holly has a somewhat cold relationship with her sign painter father, if only because she is the primary reminder of his wife, who died of pneumonia when Holly was a child. The two meet when Holly and her father move from Texas to the small town where Kit lives, Fort Dupree, South Dakota. They slowly fall in love, something about which she cannot tell her father because of their age difference and Kit coming from the wrong side of the tracks. When he tries to take Holly away with him, Kit, on an impulse, shoots her father dead. After letting the initial emotions of the situation settle down, Holly decides voluntarily to go with Kit, they trying to make it look like they committed suicide in a house fire. But they soon learn that their plan did not work, there being a bounty on their heads. As such, Kit continues his murderous ways in order to protect the life he wants to eke out with Holly. She, on the other hand, wants to support Kit, especially as he begins to feel more and more trapped, but she may only be able to endure what looks increasingly to be a battle they cannot win as a couple. Through it all, they openly and privately muse about their philosophies on their life considering their current circumstance.",
+    "languages": "English, Spanish",
+    "country": "USA",
+    "awards": "Nominated for 1 BAFTA Film Award. Another 3 wins.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDcxNjhiOTEtMzQ0YS00OTBhLTkxM2QtN2UyZDMzNzIzNWFlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "98%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "93/100"
+      }
+    ],
+    "metascore": "93",
+    "rating": 7.9,
+    "votes": "56,528",
+    "imdbid": "tt0069762",
+    "type": "movie",
+    "dvd": "27 Apr 1999",
+    "boxoffice": "N/A",
+    "production": "Warner Bros. Pictures",
+    "website": "N/A",
+    "response": "True",
+    "name": "Badlands",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0069762",
+    "lastImdbUpdate": "2018-12-03T08:53:31.211Z",
+    "lastUpdate": "2018-12-03T08:53:31.211Z"
   },
   {
     "dir": "B",
@@ -627,7 +3306,47 @@
     "extension": "m4v",
     "size": 1826786596,
     "modified": "2011-06-13T00:28:40.000Z",
-    "accessed": "2018-11-25T04:11:00.977Z"
+    "accessed": "2018-11-25T04:11:00.977Z",
+    "filenameNoExt": "Barry Lyndon",
+    "_year_data": "1975",
+    "year": 1975,
+    "rated": "PG",
+    "released": "1975-12-18T05:00:00.000Z",
+    "runtime": "185 min",
+    "genres": "Adventure, Drama, History, War",
+    "director": "Stanley Kubrick",
+    "writer": "Stanley Kubrick (written for the screen by), William Makepeace Thackeray (novel)",
+    "actors": "Ryan O'Neal, Marisa Berenson, Patrick Magee, Hardy Krüger",
+    "plot": "In the Eighteenth Century, in a small village in Ireland, Redmond Barry is a young farm boy in love with his cousin Nora Brady. When Nora gets engaged to the British Captain John Quin, Barry challenges him to a duel of pistols. He wins and escapes to Dublin but is robbed on the road. Without an alternative, Barry joins the British Army to fight in the Seven Years War. He deserts and is forced to join the Prussian Army where he saves the life of his captain and becomes his protégé and spy of the Irish gambler Chevalier de Balibari. He helps Chevalier and becomes his associate until he decides to marry the wealthy Lady Lyndon. They move to England and Barry, in his obsession of nobility, dissipates her fortune and makes a dangerous and revengeful enemy.",
+    "languages": "English, German, French",
+    "country": "UK, USA",
+    "awards": "Won 4 Oscars. Another 13 wins & 14 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "94%"
+      }
+    ],
+    "metascore": "N/A",
+    "rating": 8.1,
+    "votes": "127,232",
+    "imdbid": "tt0072684",
+    "type": "movie",
+    "dvd": "29 Jun 1999",
+    "boxoffice": "N/A",
+    "production": "Warner Bros.",
+    "website": "N/A",
+    "response": "True",
+    "name": "Barry Lyndon",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0072684",
+    "lastImdbUpdate": "2018-12-03T08:53:31.556Z",
+    "lastUpdate": "2018-12-03T08:53:31.556Z"
   },
   {
     "dir": "B",
@@ -636,16 +3355,104 @@
     "extension": "m4v",
     "size": 1614198768,
     "modified": "2011-11-20T23:50:08.000Z",
-    "accessed": "2018-11-25T04:11:00.380Z"
+    "accessed": "2018-11-25T04:11:00.380Z",
+    "filenameNoExt": "Barton Fink",
+    "_year_data": "1991",
+    "year": 1991,
+    "rated": "R",
+    "released": "1991-08-21T04:00:00.000Z",
+    "runtime": "116 min",
+    "genres": "Comedy, Drama, Thriller",
+    "director": "Joel Coen, Ethan Coen",
+    "writer": "Joel Coen, Ethan Coen",
+    "actors": "John Turturro, John Goodman, Judy Davis, Michael Lerner",
+    "plot": "In 1941, New York intellectual playwright Barton Fink comes to Hollywood to write a Wallace Beery wrestling picture. Staying in the eerie Hotel Earle, Barton develops severe writer's block. His neighbor, jovial insurance salesman Charlie Meadows, tries to help, but Barton continues to struggle as a bizarre sequence of events distracts him even further from his task.",
+    "languages": "English",
+    "country": "USA, UK",
+    "awards": "Nominated for 3 Oscars. Another 15 wins & 21 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgxMDMxMTctNDY0Zi00ZmNlLWFlYmQtODA2YjY4MDk4MjU1XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "89%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "69/100"
+      }
+    ],
+    "metascore": "69",
+    "rating": 7.7,
+    "votes": "101,445",
+    "imdbid": "tt0101410",
+    "type": "movie",
+    "dvd": "20 May 2003",
+    "boxoffice": "N/A",
+    "production": "20th Century Fox",
+    "website": "N/A",
+    "response": "True",
+    "name": "Barton Fink",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0101410",
+    "lastImdbUpdate": "2018-12-03T08:53:31.898Z",
+    "lastUpdate": "2018-12-03T08:53:31.898Z"
   },
   {
     "dir": "B",
     "filename": "The Basketball Diaries (1995).mp4",
-    "title": "The Basketball Diaries (1995)",
+    "title": "The Basketball Diaries",
     "extension": "mp4",
     "size": 2391611000,
     "modified": "2012-12-09T05:16:12.000Z",
-    "accessed": "2018-11-25T04:10:51.542Z"
+    "accessed": "2018-11-25T04:10:51.542Z",
+    "filenameNoExt": "The Basketball Diaries (1995)",
+    "_year_data": "1995",
+    "year": 1995,
+    "rated": "R",
+    "released": "1995-04-21T04:00:00.000Z",
+    "runtime": "102 min",
+    "genres": "Biography, Crime, Drama, Sport",
+    "director": "Scott Kalvert",
+    "writer": "Jim Carroll (novel), Bryan Goluboff (screenplay)",
+    "actors": "Leonardo DiCaprio, Lorraine Bracco, Marilyn Sokol, James Madio",
+    "plot": "Film adaptation of street tough Jim Carroll's epistle about his kaleidoscopic free fall into the harrowing world of drug addiction. As a member of a seemingly unbeatable high school basketball squad, Jim's life centers around the basketball court and the court becomes a metaphor for the world in his mind. A best friend who is dying of leukemia, a coach (\"Swifty\") who takes unacceptable liberties with the boys on his team, teenage sexual angst, and an unhealthy appetite for heroin -- all of these begin to encroach on young Jim's dream of becoming a basketball star. Soon, the dark streets of New York become a refuge from his mother's mounting concern for her son. He can't go home and his only escape from the reality of the streets is heroin for which he steals, robs and prostitutes himself. Only with the help of Reggie, an older neighborhood friend with whom Jim \"picked up a game\" now and then, is he able to begin the long journey back to sanity.",
+    "languages": "English",
+    "country": "USA",
+    "awards": "N/A",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjdlNzQxZGUtZTg5YS00ODg2LTkxMzctMDAyNmEwM2YyZjA4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "46%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "46/100"
+      }
+    ],
+    "metascore": "46",
+    "rating": 7.3,
+    "votes": "91,518",
+    "imdbid": "tt0112461",
+    "type": "movie",
+    "dvd": "30 Jun 1998",
+    "boxoffice": "N/A",
+    "production": "PolyGram Video",
+    "website": "N/A",
+    "response": "True",
+    "name": "The Basketball Diaries",
+    "series": false,
+    "imdburl": "https://www.imdb.com/title/tt0112461",
+    "lastImdbUpdate": "2018-12-03T08:53:32.250Z",
+    "lastUpdate": "2018-12-03T08:53:32.250Z"
   },
   {
     "dir": "B",
@@ -654,7 +3461,10 @@
     "extension": "m4v",
     "size": 2372796146,
     "modified": "2012-07-12T02:48:02.000Z",
-    "accessed": "2018-11-25T04:10:41.705Z"
+    "accessed": "2018-11-25T04:10:41.705Z",
+    "filenameNoExt": "Batman 1 - Batman Begins (2005)",
+    "imdbError": "Movie not found!: Batman 1 - Batman Begins",
+    "lastImdbUpdate": "2018-12-03T08:53:32.609Z"
   },
   {
     "dir": "B",
@@ -763,6 +3573,15 @@
     "size": 2150853516,
     "modified": "2011-04-09T19:52:26.000Z",
     "accessed": "2018-11-25T04:11:01.640Z"
+  },
+  {
+    "dir": "B",
+    "filename": "Better Off Dead (1985).mp4",
+    "title": "Better Off Dead (1985)",
+    "extension": "mp4",
+    "size": 1538513023,
+    "modified": "2018-11-26T07:35:18.981Z",
+    "accessed": "2018-11-26T19:55:29.453Z"
   },
   {
     "dir": "B",
@@ -1528,6 +4347,15 @@
     "size": 944983169,
     "modified": "2011-04-13T20:07:32.000Z",
     "accessed": "2018-11-22T05:45:42.502Z"
+  },
+  {
+    "dir": "C",
+    "filename": "Crazy Rich Asians (2018).mp4",
+    "title": "Crazy Rich Asians (2018)",
+    "extension": "mp4",
+    "size": 2071304030,
+    "modified": "2018-11-26T09:43:09.236Z",
+    "accessed": "2018-11-26T19:57:01.605Z"
   },
   {
     "dir": "C",
@@ -2302,6 +5130,15 @@
     "size": 1296686307,
     "modified": "2011-03-24T10:49:02.000Z",
     "accessed": "2015-03-15T03:39:46.759Z"
+  },
+  {
+    "dir": "FG",
+    "filename": "Fight Club (1999).mp4",
+    "title": "Fight Club (1999)",
+    "extension": "mp4",
+    "size": 1987772924,
+    "modified": "2018-11-26T05:57:39.855Z",
+    "accessed": "2018-11-26T19:58:12.093Z"
   },
   {
     "dir": "FG",
@@ -3889,6 +6726,15 @@
   },
   {
     "dir": "JK",
+    "filename": "Just Like Heaven (2005).mp4",
+    "title": "Just Like Heaven (2005)",
+    "extension": "mp4",
+    "size": 1617091852,
+    "modified": "2018-11-26T06:46:04.494Z",
+    "accessed": "2018-11-26T19:59:01.251Z"
+  },
+  {
+    "dir": "JK",
     "filename": "Justice League (2017).mp4",
     "title": "Justice League (2017)",
     "extension": "mp4",
@@ -5086,6 +7932,15 @@
   },
   {
     "dir": "NOP",
+    "filename": "Ocean's Eight (2018).mp4",
+    "title": "Ocean's Eight (2018)",
+    "extension": "mp4",
+    "size": 1891899030,
+    "modified": "2018-11-26T08:36:19.257Z",
+    "accessed": "2018-11-26T19:59:58.597Z"
+  },
+  {
+    "dir": "NOP",
     "filename": "October Sky.m4v",
     "title": "October Sky",
     "extension": "m4v",
@@ -5128,6 +7983,15 @@
     "size": 3932639915,
     "modified": "2012-12-13T11:19:44.000Z",
     "accessed": "2015-12-20T22:09:13.881Z"
+  },
+  {
+    "dir": "NOP",
+    "filename": "One Crazy Summer (1986).mp4",
+    "title": "One Crazy Summer (1986)",
+    "extension": "mp4",
+    "size": 2749821721,
+    "modified": "2018-11-27T15:19:37.159Z",
+    "accessed": "2018-11-27T15:23:33.280Z"
   },
   {
     "dir": "NOP",
@@ -6031,6 +8895,15 @@
   },
   {
     "dir": "S",
+    "filename": "Say Anything (1989).mkv",
+    "title": "Say Anything (1989)",
+    "extension": "mkv",
+    "size": 9362050240,
+    "modified": "2018-11-27T08:16:55.086Z",
+    "accessed": "2018-11-27T15:26:34.147Z"
+  },
+  {
+    "dir": "S",
     "filename": "Scanners (1981).mp4",
     "title": "Scanners (1981)",
     "extension": "mp4",
@@ -6721,6 +9594,15 @@
     "size": 1400703755,
     "modified": "2010-12-29T13:04:46.000Z",
     "accessed": "2018-11-22T05:46:51.646Z"
+  },
+  {
+    "dir": "S",
+    "filename": "The Sure Thing (1985).mkv",
+    "title": "The Sure Thing (1985)",
+    "extension": "mkv",
+    "size": 5864729406,
+    "modified": "2018-11-27T00:15:56.698Z",
+    "accessed": "2018-11-27T00:20:02.586Z"
   },
   {
     "dir": "T",
