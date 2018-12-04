@@ -8,7 +8,18 @@ const initialState = {
   movies,
   added: getAddedMonths(),
   directories: getDirectories(),
+  releases: getReleases(),
   expandAll: false,
+}
+
+function getAddedMonths() {
+  const months = {}
+  movies.forEach(movie => {
+    const yearMonth = moment(movie.modified).format('YYYY-MM')
+    if (!(yearMonth in months)) { months[yearMonth] = [] }
+    months[yearMonth].push(movie)
+  })
+  return months
 }
 
 function getDirectories() {
@@ -20,14 +31,14 @@ function getDirectories() {
   return dirs
 }
 
-function getAddedMonths() {
-  const months = {}
+function getReleases() {
+  const releases = {}
   movies.forEach(movie => {
-    const yearMonth = moment(movie.modified).format('YYYY-MM')
-    if (!(yearMonth in months)) { months[yearMonth] = [] }
-    months[yearMonth].push(movie)
+    if (!movie.year) { movie.year = 'unknown' }
+    if (!(movie.year in releases)) { releases[movie.year] = [] }
+    releases[movie.year].push(movie)
   })
-  return months
+  return releases
 }
 
 export default function configureStore() {

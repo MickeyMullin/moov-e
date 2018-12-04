@@ -1,3 +1,7 @@
+// TODO:
+// 1. store working path in config file (change omdb-apikey.js)
+// 2. move prior movie-files.json to datestamped name
+// 3. move new movie-files.json to data dir
 const fs = require('fs')
 const walk = require('walk')
 
@@ -81,7 +85,7 @@ walker.on('end', function() {
     return comp
   })
 
-  const file = fs.createWriteStream('movies.json')
+  const file = fs.createWriteStream('movie-files.json')
 
   file.write(JSON.stringify(movies, null, '  '))
 
